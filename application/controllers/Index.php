@@ -56,7 +56,7 @@ class Index extends CI_Controller
 
         $data["canonical"] = "https://megatasktechnologies.com/about-us";
         $data["alternate"] = "https://megatasktechnologies.com/about-us";
-        $data["twitter_site"] = "Megatask Technologies - About Us"
+        $data["twitter_site"] = "Megatask Technologies - About Us";
         $data["twitter_title"] = "Megatask Technologies - About Us";
         $data["twitter_description"] = "Find the best website design deals, ✓Website design ✓graphic design ✓seo services";
 
