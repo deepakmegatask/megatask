@@ -7,9 +7,9 @@
 "url": "https://megatasktechnologies.com/maintenance-website/",
 "image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
 "author": "Amit",
-"reviewBody": "Website Designing Company in Delhi  
+"reviewBody": "Website Designing Company in Delhi, 
 "reviewRating": {
-"@type": "Rating"
+"@type": "Rating",
 "ratingValue": "1"
 },
 "itemReviewed": {
@@ -42,10 +42,10 @@
         "name" : "Megatask Technologies",
         "sameAs" : "https://megatasktechnologies.com/maintenance-website"
       },
-      "ratingValue": "98,
+      "ratingValue": "98",
       "bestRating": "92",
       "worstRating": "1",
-      "ratingCount" : "1912
+      "ratingCount" : "1912"
     }
     </script>
 
