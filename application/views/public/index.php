@@ -17,7 +17,7 @@ section.homepage-banner img {
 }
 </style>
 <section class="homepage-banner">
-   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development-company.jpg" alt="web app development" title="web app development" class="slider-image" width="1920" height="690"></a>
+   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development-company.jpg" alt="web app development" title="web app development" class="slider-image" width="1663" height="590"></a>
 </section>
 <div class="clearfix"></div>
 <section>
@@ -42,7 +42,7 @@ section.homepage-banner img {
   <div class="container-fluid">
     
     <div class="row bottom-img">
-      <img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/megatask-services.jpg" alt="Megatask Services" title="Megatask Services" width="1920" height="540">
+      <img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/megatask-services.jpg" alt="Megatask Services" title="Megatask Services" width="1663" height="463">
     </div>
   </div>
 </section>
@@ -60,7 +60,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/WebsiteDevelopment.webp" alt="Website Development" title="Website Development" class="img-rounded" width="500" height="360">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/WebsiteDevelopment.webp" alt="Website Development" title="Website Development" class="img-rounded" width="333" height="239">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -78,7 +78,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/digitalmarketing.webp" alt="Digital Marketing" title="Digital Marketing" class="img-rounded" width="500" height="360">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/digitalmarketing.webp" alt="Digital Marketing" title="Digital Marketing" class="img-rounded" width="333" height="239">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -96,7 +96,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy" src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/Graphic-Design.webp" alt="Graphic Design" title="Graphic Design" class="img-rounded" width="500" height="360">
+            <img loading="lazy" src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/Graphic-Design.webp" alt="Graphic Design" title="Graphic Design" class="img-rounded" width="333" height="239">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -114,7 +114,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/website-redesigning.png" alt="Website Re-designing" title="Website Re-designing" class="img-rounded" width="500" height="360">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/website-redesigning.png" alt="Website Re-designing" title="Website Re-designing" class="img-rounded" width="333" height="239">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -155,7 +155,7 @@ section.homepage-banner img {
 					?>
 					<div class="col-md-4 p-img">
 						<div class="Scriptcontent">
-						<img class="myImg img-rounded" data-id="<?php echo $i;?>" data-largimage="assets/images/Portfolio/<?php echo $name;?>" loading="lazy"   id="myimage<?php echo $i;?>" src="assets/images/Portfolio/thumb-<?php echo $name;?>" alt="<?php echo $larg_img_alt[$i];?>" width="1156" height="779"> 
+						<img class="myImg img-rounded" data-id="<?php echo $i;?>" data-largimage="assets/images/Portfolio/<?php echo $name;?>" loading="lazy"   id="myimage<?php echo $i;?>" src="assets/images/Portfolio/thumb-<?php echo $name;?>" alt="<?php echo $larg_img_alt[$i];?>" width="439" height="296"> 
 						</div>
 					</div>
 					 <?php
