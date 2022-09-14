@@ -33,8 +33,18 @@
 ?>
 <meta name="google-site-verification" content="adKuUJbW1cm-RHGG-juLOMsF-QldCA7_5PiyssJM9Y0" />
 
-<!-- Links-->
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="twitter:creator" content="@megatasktech">
+<meta name="twitter:image:src" content="https://megatasktechnologies.com/assets/images/logo.png">
+<meta name="distribution" content="global" />
+<meta name="expires" content="never">
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta name="yahooSeeker" content="index, follow" />
+<meta name="msnbot" content="index, follow" />
+<meta name="document-type" content="public">
+<meta property="og:site_name" content="Megatask Technologies Pvt. Ltd. " />
+<meta name="google-site-verification" content="adKuUJbW1cm-RHGG-juLOMsF-QldCA7_5PiyssJM9Y0" />
+
 
 <link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/bootstrap.min.css">
 <link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/responsive.css">

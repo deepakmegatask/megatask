@@ -1,3 +1,10 @@
+
+<style type="text/css">
+  .col-md-12.text-center.p-2.text-white {
+      font-size: 13px;
+  }
+</style>
+
 <!-- <div class="icon-bar">
   <a href="https://wa.me/9871652511" target="_blank" class="whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a> 
 </div> -->
@@ -136,6 +143,18 @@
     </div>
   </div>
 </section>
+
+<section class="copyright-bg">
+  <div class="container">
+    <div class="row ">
+      <div class="col-md-12 text-center p-2 text-white">
+      <div itemscope itemtype=http://schema.org/Product><span itemprop=brand>Mega</span> <span itemprop=name>Akash</span> <span itemprop=description>Best Web Development Compmnay</span>Product #: <span itemprop=mpn>2890</span> <span itemprop=aggregateRating itemscope itemtype=http://schema.org/AggregateRating><span itemprop=ratingValue>4.8</span> stars, based on <span itemprop=reviewCount>2890 </span>Reviews</span></div></div>
+    </div>
+  </div>
+</section> 
+
+
+
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index: 99999">
   <div class="modal-dialog">
