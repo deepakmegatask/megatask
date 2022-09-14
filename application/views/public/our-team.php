@@ -1,3 +1,57 @@
+
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "MegaTask Technologies",
+"url": "https://megatasktechnologies.com/our-team/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Amit",
+"reviewBody": "Best Website Design Company",
+"reviewRating": {
+"@type": "Rating"
+"ratingValue": "1"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "MegaTask Technologies",
+"priceRange": "$ 10 Web Design Cost",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
+
+</script>
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type": "EmployerAggregateRating",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name" : "Megatask Technologies",
+        "sameAs" : "https://megatasktechnologies.com/our-team"
+      },
+      "ratingValue": "93",
+      "bestRating": "98",
+      "worstRating": "1",
+      "ratingCount" : "19051"
+    }
+    </script>
+
+
+
 <section class="">
   <!--ecommerce home banner start-->
   <div class="container-fluid  ">

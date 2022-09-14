@@ -1,3 +1,53 @@
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "Mega Tasktechnologies",
+"url": "https://megatasktechnologies.com/website-redesign/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Amit",
+"reviewBody": "Website Redesign Company",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "Website Redesign Company",
+"priceRange": "$ 100 Website Redesign Company Cost",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
+
+</script>
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type": "EmployerAggregateRating",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name" : "Best Website Redesign Company",
+        "sameAs" : "https://megatasktechnologies.com/website-redesign"
+      },
+      "ratingValue": "96",
+      "bestRating": "99",
+      "worstRating": "1",
+      "ratingCount" : "190561"
+    }
+    </script>
 <section class="">
 	<div class="container-fluid digital-marketing-banner">
 		<div class="container-fluid   ">

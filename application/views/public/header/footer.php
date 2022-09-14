@@ -148,7 +148,7 @@
   <div class="container">
     <div class="row ">
       <div class="col-md-12 text-center p-2 text-white">
-      <div itemscope itemtype=http://schema.org/Product><span itemprop=brand>Mega</span> <span itemprop=name>Akash</span> <span itemprop=description>Best Web Development Compmnay</span>Product #: <span itemprop=mpn>2890</span> <span itemprop=aggregateRating itemscope itemtype=http://schema.org/AggregateRating><span itemprop=ratingValue>4.8</span> stars, based on <span itemprop=reviewCount>2890 </span>Reviews</span></div></div>
+      <div itemscope itemtype=http://schema.org/Product><span itemprop=brand><?php echo $companyname?></span> <span itemprop=name><?php echo $authname?></span> <span itemprop=description><?php echo $footdesc?></span>&nbsp;Product #: <span itemprop=mpn><?php echo $mpnnumber?>&nbsp;&nbsp;</span> <span itemprop=aggregateRating itemscope itemtype=http://schema.org/AggregateRating><span itemprop=ratingValue><?php echo $ratingvalue?></span> stars, based on <span itemprop=reviewCount><?php echo $mpnnumber?></span> &nbsp;Reviews</span></div></div>
     </div>
   </div>
 </section> 

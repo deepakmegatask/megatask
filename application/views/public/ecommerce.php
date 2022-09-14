@@ -1,4 +1,52 @@
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "Mega Tasktechnologies",
+"url": "https://megatasktechnologies.com/ecommerce/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Amit",
+"reviewBody": "Ecommerce Website Designing Company",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "Ecommerce Website Designing Company",
+"priceRange": "$ 500 Ecommerce Website Designing Cost",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
 
+</script>
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type": "EmployerAggregateRating",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name" : "Best Ecommerce Web Designing Company",
+        "sameAs" : "https://megatasktechnologies.com/ecommerce"
+      },
+      "ratingValue": "97",
+      "bestRating": "98",
+      "worstRating": "1",
+      "ratingCount" : "190561"
+    }
+    </script>
 
 
 

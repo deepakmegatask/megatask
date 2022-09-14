@@ -32,13 +32,15 @@ class Index extends CI_Controller
         $data["canonical"] = "https://megatasktechnologies.com/";
         $data["alternate"] = "https://megatasktechnologies.com/";
 
-
-
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Akash";
+        $data["footdesc"] = "Best Web Development Compmnay";
+        $data["mpnnumber"] = "2890";
+        $data["ratingvalue"] = "4.8";
 
         $data["file"] = "public/index";
-        $this
-            ->load
-            ->view('public/header/template', $data);
+        $this->load->view('public/header/template', $data);
     }
     
     public function about_us()
@@ -60,6 +62,16 @@ class Index extends CI_Controller
         $data["twitter_title"] = "Megatask Technologies - About Us";
         $data["twitter_description"] = "Find the best website design deals, ✓Website design ✓graphic design ✓seo services";
 
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Akash";
+        $data["footdesc"] = "Best Web Development Compmnay";
+        $data["mpnnumber"] = "2890";
+        $data["ratingvalue"] = "4.8";
+
+
+
+
         $this
             ->load
             ->view('public/header/template', $data);
@@ -70,15 +82,24 @@ class Index extends CI_Controller
 
         $data = array();
 
-        $data["title"] = "Megatask Technologies: Web Design Company, Digital Marketing Agency";
-
-
+        $data["title"] = "Our Creative Team - Megatask Technologies";
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Different skills but one team- Meet our all the experience team members they are experts in designing development and marketing.";
-        $data["meta_keyword"] = "it company delhi, it service provider, graphic design agency, digital marketing agency, software development company";
 
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["meta_description"] = "We Megatask Technologies are the fastest-growing company ✓Website Design Company in Delhi NCR. That offers an extended array of services for grow your buisness faster.";
+        $data["meta_keyword"] = "Website Design Company in Delhi, web designing, website design company in delhi, web designing company in delhi, web design company, website design agency in delhi NCR.";
+
+        $data["canonical"] = "https://megatasktechnologies.com/our-team";
+        $data["alternate"] = "https://megatasktechnologies.com/our-team";
+        $data["twitter_site"] = "Best Website Design Company in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Website Design Company in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "We Megatask Technologies are the fastest-growing company ✓Website Design Company in Delhi NCR ✓web designing. That offers an extended array of services for grow your buisness faster.";
+
+        //footer
+        $data["companyname"] = "Megatask technologiess";
+        $data["authname"] = "Akash";
+        $data["footdesc"] = "Best Web Development Compmnay";
+        $data["mpnnumber"] = "2896";
+        $data["ratingvalue"] = "4.9";
 
 
 
@@ -91,15 +112,27 @@ class Index extends CI_Controller
     public function ecommerce()
     {
         $data = array();
-        $data["title"] = "eCommerce Website Development Company in India
+        $data["title"] = "Ecommerce Website Designing Company - Megatask Technologies
         ";
-
-
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We are E-commerce website Development Company in India that gives you best Services for best dynamic and responsive online store.";
-        $data["meta_keyword"] = "ecommerce website development company in india, ecommerce website design company , ecommerce web development services, ecommerce web development delhi, e-commerce website india";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+
+        $data["meta_description"] = "Best ✓Ecommerce Website Designing Company in Delhi (India), offering Mobile Responsive ✓eCommerce Web Development to clients from worldwide.";
+
+        $data["meta_keyword"] = "Ecommerce Website Designing Company, Ecommerce Website Designing, Ecommerce Website Designing agency in delhi, web designing company in delhi, web design company, website design agency in delhi.";
+
+        $data["canonical"] = "https://megatasktechnologies.com/ecommerce/";
+        $data["alternate"] = "https://megatasktechnologies.com/ecommerce/";
+        $data["twitter_site"] = "Best Ecommerce Website Design Company - Megatask Technologies";
+        $data["twitter_title"] = "Ecommerce Website Designing Company - Megatask Technologies";
+        $data["twitter_description"] = "Best Ecommerce ✓Website Designing Company in Delhi (India), offering Mobile Responsive ✓eCommerce Web Development to clients from worldwide.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Hasan";
+        $data["footdesc"] = "Best Ecommerce Website Designing Company";
+        $data["mpnnumber"] = "2895";
+        $data["ratingvalue"] = "4.7";
+
 
 
 
@@ -112,14 +145,23 @@ class Index extends CI_Controller
     {
 		$data = array();
 		$data["title"] = "SEO Services in Delhi - Megatask Technologies";
-
-
 		$data["meta_title"] = $data["title"];
-		$data["meta_description"] = "Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
+
+		$data["meta_description"] = "✓Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
 		$data["meta_keyword"] = "seo services in delhi, seo company in delhi, seo agency in delhi, local seo services, local seo in delhi";
 
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["canonical"] = "https://megatasktechnologies.com/seo-services/";
+        $data["alternate"] = "https://megatasktechnologies.com/seo-services/";
+        $data["twitter_site"] = "SEO Services in Delhi ncr - Megatask Technologies";
+        $data["twitter_title"] = "SEO Service in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "✓Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Dharmesh";
+        $data["footdesc"] = "Best SEO Services in Delhi";
+        $data["mpnnumber"] = "2888";
+        $data["ratingvalue"] = "4.5";
 
 
 
@@ -141,6 +183,16 @@ class Index extends CI_Controller
 
         $data["canonical"] = "https://megatasktechnologies.com/";
         $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["twitter_site"] = "SEO Services in Delhi ncr - Megatask Technologies";
+        $data["twitter_title"] = "SEO Service in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "✓Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Dharmesh";
+        $data["footdesc"] = "Best SEO Services in Delhi";
+        $data["mpnnumber"] = "2888";
+        $data["ratingvalue"] = "4.5";
 
 
         $data["file"] = "public/smo-services";
@@ -159,6 +211,16 @@ class Index extends CI_Controller
         $data["meta_keyword"] = "social media marketing, social media marketing company, smm services in delhi, india, smm services in delhi, smm company in delhi";
         $data["canonical"] = "https://megatasktechnologies.com/";
         $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["twitter_site"] = "SEO Services in Delhi ncr - Megatask Technologies";
+        $data["twitter_title"] = "SEO Service in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "✓Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Dharmesh";
+        $data["footdesc"] = "Best SEO Services in Delhi";
+        $data["mpnnumber"] = "2888";
+        $data["ratingvalue"] = "4.5";
 
 
         $data["file"] = "public/smm-services";
@@ -228,13 +290,22 @@ class Index extends CI_Controller
     {
         $data = array();
         $data["title"] = "SEM Services in Delhi - Megatask Technologies";
-
-
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megask always prefer to give best offers to SEM Services and deliver transformational traffic through facebook and other social medial paid marketing campaigns.";
+
+        $data["meta_description"] = "Megask always prefer to give best offers to ✓SEM Services and deliver transformational traffic through facebook and other ✓social medial paid marketing campaigns.";
         $data["meta_keyword"] = "sem services in india, sem services company india, sem services dubai, sem services delhi-ncr";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["canonical"] = "https://megatasktechnologies.com/sem-services/";
+        $data["alternate"] = "https://megatasktechnologies.com/sem-services/";
+        $data["twitter_site"] = "SEM Services in Delhi ncr - Megatask Technologies";
+        $data["twitter_title"] = "SEM Service in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "Megask always prefer to give best offers to ✓SEM Services and deliver transformational traffic through facebook and other ✓social medial paid marketing campaigns.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Rahul";
+        $data["footdesc"] = "Best SEM Services in Delhi";
+        $data["mpnnumber"] = "2886";
+        $data["ratingvalue"] = "4.4";
 
 
         $data["file"] = "public/sem-services";
@@ -263,14 +334,24 @@ class Index extends CI_Controller
     public function ppc_services()
     {
         $data = array();
-        $data["title"] = "PPC Services in Delhi - Megatask Technoloiges";
-
-
+        $data["title"] = "PPC Services in Delhi - Megatask Technologies";
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megatask Technologies is a Pay Per Click Ads Management Company in Delhi, a Google certified PPC Services with a solid ROI to increase your business revenue.";
-        $data["meta_keyword"] = "PPC Services in Delhi, Pay Per Click Agency Delhi, cheap PPC Services, PPC Company in Delhi, Best Pay Per Click (PPC) Management Services in Delhi, Best PPC Management Company, PPC Services India, PPC Company in Delhi, PPC Pay per click Services Company, Best PPC Agency in Delhi";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+
+        $data["meta_description"] = "Megatask Technologies is a ✓Pay Per Click Ads Management Company in Delhi, a Google certified ✓PPC Services with a solid ROI to increase your business revenue.";
+        $data["meta_keyword"] = "PPC Services in Delhi, Pay Per Click Agency Delhi, cheap PPC Services, PPC Company in Delhi, Best Pay Per Click (PPC) Management Services in Delhi, Best PPC Management Company, PPC Services India, PPC Company in Delhi, PPC Pay per click Services Company, Best PPC Agency in Delhi.";
+
+        $data["canonical"] = "https://megatasktechnologies.com/ppc-services";
+        $data["alternate"] = "https://megatasktechnologies.com/ppc-services";
+        $data["twitter_site"] = "PPC Service in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "PPC Service agency - Megatask Technologies";
+        $data["twitter_description"] = "Megatask Technologies is a ✓Pay Per Click Ads Management Company in Delhi, a Google certified ✓PPC Services with a solid ROI to increase your business revenue.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Deepak";
+        $data["footdesc"] = "PPC Services in Delhi";
+        $data["mpnnumber"] = "2823";
+        $data["ratingvalue"] = "4.2";
 
 
         $data["file"] = "public/ppc-services";
@@ -281,14 +362,24 @@ class Index extends CI_Controller
     public function graphic_design()
     {
         $data = array();
-        $data["title"] = "Graphic Design Company in Delhi - Mega Task";
-
-
+        $data["title"] = "Graphic Design Company - Megatask Technologies";
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Looking for Graphic Design Company in Delhi. Megatask Technologies offers affordable creative graphic design services to agencies all around the world.";
-        $data["meta_keyword"] = "graphic design agency delhi, graphic design company delhi, graphic design services in delhi, graphic design agency delhi. graphic designers";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+
+        $data["meta_description"] = "✓Looking for Graphic Design Company in Delhi. Megatask Technologies offers affordable creative graphic design services to agencies all around the world.";
+        $data["meta_keyword"] = "graphic design agency delhi, graphic design company delhi, graphic design services in delhi, graphic design agency delhi. graphic designers.";
+
+        $data["canonical"] = "https://megatasktechnologies.com/graphic-design";
+        $data["alternate"] = "https://megatasktechnologies.com/graphic-design";
+        $data["twitter_site"] = "Graphic Designing Company in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Graphic Design Company in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "✓Looking for Graphic Design Company in Delhi. Megatask Technologies offers affordable creative graphic design services to agencies all around the world.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Umesh";
+        $data["footdesc"] = "Best graphic designing Company in Delhi";
+        $data["mpnnumber"] = "2826";
+        $data["ratingvalue"] = "5.6";
 
 
         $data["file"] = "public/graphic-design";
@@ -300,13 +391,23 @@ class Index extends CI_Controller
     {
         $data = array();
         $data["title"] = "Website Redesign Company - Megatask Technologies";
-
-
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Website Redesign Company in India. Our Website Redesigning Services enhance your web visibility or look and feel to give your user a good impression.";
-        $data["meta_keyword"] = "Website Redesign Company, website redesign services india, website redesign agency delhi";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+
+        $data["meta_description"] = "Website Redesign Company in India. Our ✓Website Redesigning Services enhance your ✓web visibility or look and feel to give your user a good impression.";
+        $data["meta_keyword"] = "Website Redesign Company, website redesign services india, website redesign agency india, web designing company in delhi, web design company, website design agency in delhi.";
+
+        $data["canonical"] = "https://megatasktechnologies.com/website-redesign/";
+        $data["alternate"] = "https://megatasktechnologies.com/website-redesign/";
+        $data["twitter_site"] = "Best Website Redesign Company in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Website Redesign agency in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "Website Redesign Company in India. Our ✓Website Redesigning Services enhance your ✓web visibility or look and feel to give your user a good impression.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Rupesh";
+        $data["footdesc"] = "Best Website Redesign Company";
+        $data["mpnnumber"] = "2897";
+        $data["ratingvalue"] = "4.7";
 
 
         $data["file"] = "public/website-redesign";
@@ -317,15 +418,25 @@ class Index extends CI_Controller
     public function responsive_website()
     {
         $data = array();
-        $data["title"] = "Responsive Web Design Services - Megatask";
-
-
+        $data["title"] = "Responsive Web Design Services - Megatask Technologies";
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Complete Website Maintenance Service and Support for WordPress, Magento, PHP, Codeigniter, Laravel, Cake php & Mobile App. Choose Website Maintenance Plan..";
-        $data["meta_keyword"] = "responsive website design delhi, responsive web design delhi, responsive web services delhi-ncr, responsive website designer delhi";
 
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["meta_description"] = "✓Responsive web design provides solutions by making websites and applications smart enough to resize and adapt its content based on the screen size of the device.";
+
+        $data["meta_keyword"] = "Responsive Web Design Services, Responsive Web Design, Responsive Web Design in india, Responsive Web Design in delhi, Responsive Web Design company, website design agency in delhi.";
+
+        $data["canonical"] = "https://megatasktechnologies.com/responsive-website/";
+        $data["alternate"] = "https://megatasktechnologies.com/responsive-website/";
+        $data["twitter_site"] = "Responsive Web Design Services in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Responsive Web Design Services - Megatask Technologies";
+        $data["twitter_description"] = "✓Responsive web design provides solutions by making websites and applications smart enough to resize and adapt its content based on the screen size of the device.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Ashu";
+        $data["footdesc"] = "Best Responsive Web Design Services";
+        $data["mpnnumber"] = "2898";
+        $data["ratingvalue"] = "4.6";
 
         $data["file"] = "public/responsive-website";
         $this
@@ -344,6 +455,16 @@ class Index extends CI_Controller
 
         $data["canonical"] = "https://megatasktechnologies.com/";
         $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["twitter_site"] = "Responsive Web Design Services in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Responsive Web Design Services - Megatask Technologies";
+        $data["twitter_description"] = "✓Responsive web design provides solutions by making websites and applications smart enough to resize and adapt its content based on the screen size of the device.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Ashu";
+        $data["footdesc"] = "Best Responsive Web Design Services";
+        $data["mpnnumber"] = "2898";
+        $data["ratingvalue"] = "4.6";
 
 
         $data["file"] = "public/maintenance-website";
@@ -356,14 +477,25 @@ class Index extends CI_Controller
     public function web_development()
     {
         $data = array();
-        $data["title"] = "Website Development Company in Delhi - Mega Task";
-
+        $data["title"] = "Wordpress Development Company in Delhi - Megatask Technologies";
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Our expert website development team offer quality development services to our clients which help them grow their website development next level.";
-        $data["meta_keyword"] = "website development company delhi, web development delhi, web developer, web development agency, web development services, web development in india, php development, php developer, asp developer, java developer, js developer, magento developement, ci development";
 
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["meta_description"] = "✓Wordpress Development Company in Delhi - Megatask Technology is growing ✓Wordpress Website Design Company offering theme customization, plugin customization etc.";
+
+        $data["meta_keyword"] = "wordpress development company in delhi, wordpress development in delhi, wordpress development agency, wordpress development company, wordpress development delhi, wordpress development services india, wordpress development company in india";
+
+        $data["canonical"] = "https://megatasktechnologies.com/web-wordpress/";
+        $data["alternate"] = "https://megatasktechnologies.com/web-wordpress/";
+        $data["twitter_site"] = "Wordpress Development Company - Megatask Technologies";
+        $data["twitter_title"] = "Wordpress Development agency - Megatask Technologies";
+        $data["twitter_description"] = "✓Wordpress Development Company in Delhi - Megatask Technology is growing ✓Wordpress Website Design Company offering theme customization, plugin customization etc.";
+
+        //footer
+        $data["companyname"] = "Mega";
+        $data["authname"] = "Deepak";
+        $data["footdesc"] = "Best Wordpress Development agency";
+        $data["mpnnumber"] = "2891";
+        $data["ratingvalue"] = "4.9";
 
         $data["file"] = "public/web-development";
         $this
@@ -375,13 +507,23 @@ class Index extends CI_Controller
     public function portfolio()
     {
         $data = array();
-        $data["title"] = "Megatask Technologies: Web Design Company, Digital Marketing Agency";
-
+        $data["title"] = "Portfolio - Megatask Technologies";
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "";
-        $data["meta_keyword"] = "";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+
+        $data["meta_description"] = "Promising to deliver the services is one thing and letting our services talk for themselves is another. We have delivered several hundred services which include website designing and development.";
+        $data["meta_keyword"] = "Website Design Company in Delhi, web designing, website design company in delhi, web designing company in delhi, web design company, website design agency in delhi NCR.";
+        $data["canonical"] = "https://megatasktechnologies.com/portfolio";
+        $data["alternate"] = "https://megatasktechnologies.com/portfolio";
+        $data["twitter_site"] = "Best Website Design Company in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Megatask Technologies - Portfolio";
+        $data["twitter_description"] = "Promising to deliver the services is one thing and letting our services talk for themselves is another. We have delivered several hundred services which include website designing and development.";
+
+        //footer
+        $data["companyname"] = "Megatask Technologies";
+        $data["authname"] = "Amit";
+        $data["footdesc"] = "Best Web Development Company";
+        $data["mpnnumber"] = "2891";
+        $data["ratingvalue"] = "4.1";
 
         $data["file"] = "public/portfolio";
         $this
@@ -400,6 +542,18 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Contact Megatask Technologies- We feel always happy to help and advice if you have any questions or inquiries.";
         $data["meta_keyword"] = "website design company, web development company india, digital marketing agency delhi, seo agency delhi-ncr, ppc services delhi";
+        $data["canonical"] = "https://megatasktechnologies.com/portfolio";
+        $data["alternate"] = "https://megatasktechnologies.com/portfolio";
+        $data["twitter_site"] = "Best Website Design Company in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Megatask Technologies - Portfolio";
+        $data["twitter_description"] = "Promising to deliver the services is one thing and letting our services talk for themselves is another. We have delivered several hundred services which include website designing and development.";
+
+        //footer
+        $data["companyname"] = "Megatask Technologies";
+        $data["authname"] = "Amit";
+        $data["footdesc"] = "Best Web Development Company";
+        $data["mpnnumber"] = "2891";
+        $data["ratingvalue"] = "4.1";
 
 
         $data["file"] = "public/contact-us";
@@ -412,8 +566,7 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Why Choose Megatask Technologies-Web Development & Web Design";
         $data["file"] = "public/why-choose-us";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        
         $this
             ->load
             ->view('public/header/template', $data);
@@ -423,8 +576,7 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/faq";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        
         $this
             ->load
             ->view('public/header/template', $data);
@@ -445,8 +597,7 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/privacy-policy";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        
         $this
             ->load
             ->view('public/header/template', $data);
@@ -456,8 +607,7 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/disclaimer";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        
         $this
             ->load
             ->view('public/header/template', $data);
@@ -467,8 +617,7 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/terms-and-conditions";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        
         $this
             ->load
             ->view('public/header/template', $data);
@@ -478,8 +627,7 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/refund-and-cancellation-policy";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        
         $this
             ->load
             ->view('public/header/template', $data);
@@ -489,8 +637,7 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Best Price of Web Designing in Delhi & Sofware Development ";
         $data["file"] = "public/web-price";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        
         $this
             ->load
             ->view('public/header/template', $data);
@@ -504,14 +651,26 @@ class Index extends CI_Controller
      public function web_wordpress()
     {
         $data = array();
-        $data["title"] = "Wordpress Development Company in Delhi - Mega Task
+        $data["title"] = "Wordpress Development Company in Delhi - Megatask Technologies
         ";
-		
 		$data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Wordpress Development Company in Delhi - Megatask Technology is growing Wordpress Website Design Company offering theme customization, plugin customization etc.";
-        $data["meta_keyword"] = "wordpress development company in delhi, wordpress development in delhi, wordpress development agency, wordpress development company, wordpress development delhi, wordpress development services india, wordpress development company in india, wordpress theme for web development company, wordpress website development company india";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+
+        $data["meta_description"] = "✓Wordpress Development Company in Delhi - Megatask Technology is growing ✓Wordpress Website Design Company offering theme customization, plugin customization etc.";
+        $data["meta_keyword"] = "wordpress development company in delhi, wordpress development in delhi, wordpress development agency, wordpress development company, wordpress development delhi, wordpress development services india, wordpress development company in india";
+
+        $data["canonical"] = "https://megatasktechnologies.com/web-wordpress/";
+        $data["alternate"] = "https://megatasktechnologies.com/web-wordpress/";
+
+        $data["twitter_site"] = "Wordpress Development Company - Megatask Technologies";
+        $data["twitter_title"] = "Wordpress Development agency - Megatask Technologies";
+        $data["twitter_description"] = "✓Wordpress Development Company in Delhi - Megatask Technology is growing ✓Wordpress Website Design Company offering theme customization, plugin customization etc.";
+
+        //footer
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Deepak";
+        $data["footdesc"] = "Best Wordpress Development agency";
+        $data["mpnnumber"] = "2891";
+        $data["ratingvalue"] = "4.9";
 		
         $data["file"] = "public/web-wordpress";
 
