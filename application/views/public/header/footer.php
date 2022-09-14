@@ -1,8 +1,9 @@
 
 <style type="text/css">
-  .col-md-12.text-center.p-2.text-white {
-      font-size: 13px;
-  }
+  .col-md-12.text-center.p-2 {
+    font-size: 10px;
+    color: #616e8375;
+}
 </style>
 
 <!-- <div class="icon-bar">
@@ -147,7 +148,7 @@
 <section class="copyright-bg">
   <div class="container">
     <div class="row ">
-      <div class="col-md-12 text-center p-2 text-white">
+      <div class="col-md-12 text-center p-2">
       <div itemscope itemtype=http://schema.org/Product><span itemprop=brand><?php echo $companyname?></span> <span itemprop=name><?php echo $authname?></span> <span itemprop=description><?php echo $footdesc?></span>&nbsp;Product #: <span itemprop=mpn><?php echo $mpnnumber?>&nbsp;&nbsp;</span> <span itemprop=aggregateRating itemscope itemtype=http://schema.org/AggregateRating><span itemprop=ratingValue><?php echo $ratingvalue?></span> stars, based on <span itemprop=reviewCount><?php echo $mpnnumber?></span> &nbsp;Reviews</span></div></div>
     </div>
   </div>
