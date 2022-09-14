@@ -1,54 +1,31 @@
+
+<style type="text/css">
+  img.slider-image {
+    width: 100%;
+    background-size: cover;
+}
+section.homepage-banner img {
+    max-height: 590px;
+}
+.row.bottom-img img {
+    width: 100%;
+}
+.uptodate-process {
+    background: #361a68;
+    padding: 35px 0;
+    height: auto;
+}
+</style>
+
+<section class="homepage-banner">
+   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development.jpg" alt="web app development" title="web app development" class="slider-image"></a>
+</section>
+
+
+<div class="clearfix"></div>
 <section>
-  <div class="container-fluid home-banner-container">
-    <div class="row home-jumbo">
-      <div class="col-sm-6 home-jumbo3">
-        <div class="ractangle_inbanner title_lead_inbanner " id="title_lead_inbanner">
-          <h1>Next Generation <br>Web <strong class="lead">Design</strong></h1>
-          <a href="<?=base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote" type="submit">Contact Us</a>
-        </div>
-      </div>
-      <div class="col-sm-6 BannerOpenGraph101 " id="jumbo_dive1">
-        <div class="home-jumbo2 ">
-          <div class="gear2 moving-tool" id="gear2"></div>
-          <div class="pana1 moving-tool" id="pana1"></div>
-          <div class="gear1 moving-tool" id="gear1"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="container seprator_div05">
-    <div class="row">
-      <div class="col-md-12 cms-mockup cms-mockup-mg">
-        <div class=" "> </div>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="container-fluid seprator_div1">
-    <div class="row justify-content-md-center">
-      <div class="col-md-8">
-        <div class="we-are-mission">
-          <div id="we_about">
-            <div class="round-paint paint-1 bg-green bob-about-1"></div>
-            <div class="round-paint paint-2 bg-pink bob-about-2"></div>
-            <div class="round-paint paint-3 bg-yellow bob-about-3 "></div>
-            <div class="round-paint paint-4 bg-blue bob-about-4"></div>
-            <div class="round-paint paint-5 bg-green bob-about-5"></div>
-            <div class="round-paint paint-6 bg-pink bob-about-6"></div>
-            <div class="round-paint paint-7 bg-yellow bob-about-7"></div>
-            <div class="round-paint paint-8 bg-blue bob-about-8"></div>
-            <div class="we-are-mission-para mt-0">
-              <h3 class="text-white text-center">We're on a mission</h3>
-              <p class="text-white text-justify"> Megatask is a co-joined team committed to provide the best Website Designing, marketing , most remarkable social media marketing , brand promotion, seo and paid ads software development. We have a right blend of expert designers, expert web developers and Google certified digital marketers which make us a unique one-stop solution for our clients. We concretize the abstract ideas of our customers making it feasible to their needs . Our aim is not be unique in our field but to be what is desired. </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="container-fluid we-are-contain">
-    <div class="row pt-4 pb-4">
+    <div class="row pt-3 pb-5">
       <div class="col-sm-6 we-are-prof-img"> </div>
       <div class="col-sm-6 ">
         <div class="we-are-professional">
@@ -66,16 +43,9 @@
 </section>
 <section>
   <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-12 design-process-bg">
-        <div class="pt-5">
-          <h3 class="text-center text-white">We don’t compromise with the best Web Designing Solution
-          </h3> </div>
-		  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12 design-process"> </div>
+    
+    <div class="row bottom-img">
+      <img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/megatask-services.jpg" alt="Megatask Services" title="Megatask Services">
     </div>
   </div>
 </section>
@@ -93,7 +63,7 @@
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="<?php echo base_url();?>assets/images/services/WebsiteDevelopment.webp" alt="Website Development" class="img-rounded">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/WebsiteDevelopment.webp" alt="Website Development" title="Website Development" class="img-rounded">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -111,7 +81,7 @@
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="<?php echo base_url();?>assets/images/services/digitalmarketing.webp" alt="Digital Marketing" class="img-rounded">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/digitalmarketing.webp" alt="Digital Marketing" title="Digital Marketing" class="img-rounded">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -129,7 +99,7 @@
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy" src="<?php echo base_url();?>assets/images/services/Graphic-Design.webp" alt="Graphic Design" class="img-rounded">
+            <img loading="lazy" src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/Graphic-Design.webp" alt="Graphic Design" title="Graphic Design" class="img-rounded">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -147,7 +117,7 @@
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="<?php echo base_url();?>assets/images/services/website-redesigning.png" alt="Website Re-designing" class="img-rounded">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/website-redesigning.png" alt="Website Re-designing" title="Website Re-designing" class="img-rounded">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -205,134 +175,15 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 ">
-        <div class="pt-5 title_lead_inbanner mb-2">
-          <h3 class="text-center text-white">Be <strong class="lead">Up to Date</strong> With New Events</h3>
-          <p class="text-center text-white">Join our mailing list to receive news and announcements.</p>
-        </div>
+        
         <form class="row form-inline megatask-form">
           <div class="col-sm-9 text-right">
             <input type="text" class="wow bounceInLeft text-center" placeholder="Email">
           </div>
           <div class="col-sm-3 sub-button">
-            <button type="submit" class="wow bounceInRight text-center mb-2 get_quote">Confirm identity</button>
+            <button type="submit" class="wow bounceInRight text-center mb-2 get_quote">Subscribe</button>
           </div>
         </form>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="how-is-going-contain pb-5">
-  <div class="container how-is-going-contain">
-    <div class="row how-is-going-row1">
-      <div class="col-sm-12">
-        <div class="how-is-going-para title_lead">
-          <h3 class="text-center">How It Is <strong class="lead">Going</strong></h3>
-          <p class="text-center">We offer professional web design services at affordable rates to help your business attract more visitors and keep them on your site! We follow a strategic website design and development process. After knowing your business details requirements completely, we insight ourselves to put in our inputs. Thereafter, we use the best tried and tested tools for designing your website.</p>
-        </div>
-      </div>
-    </div>
-    <div class="row how-is-going-row2">
-      <div class="col-sm-2 text-center text-flow ">
-        <div class="how-is-going-para">
-          <div class="wow bounceInUp icon-container icon-container-1">
-            <div class="simple-text text-1">
-              <p class="">01</p>
-            </div>
-            <div class="icon-load">
-              <div class="icon_box">
-                <div class="border_icon"> <i class="fa fa-lightbulb-o" aria-hidden="true"></i> </div>
-              </div>
-            </div>
-            <div class="detail_box">
-              <div class="title_go"> Info Gathering </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-2 text-center text-flow ">
-        <div class="how-is-going-para">
-          <div class="wow bounceInDown icon-container icon-container-2">
-            <div class="simple-text text-2">
-              <p class="">02</p>
-            </div>
-            <div class="icon-load">
-              <div class="icon_box">
-                <div class="border_icon"> <i class="fa fa-bar-chart" aria-hidden="true"></i> </div>
-              </div>
-            </div>
-            <div class="detail_box">
-              <div class="title_go"> Planning </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-2 text-center text-flow ">
-        <div class="how-is-going-para">
-          <div class="wow bounceInUp icon-container icon-container-3">
-            <div class="simple-text text-3">
-              <p class="">03</p>
-            </div>
-            <div class="icon-load">
-              <div class="icon_box">
-                <div class="border_icon"> <i class="fa fa-paint-brush" aria-hidden="true"></i></div>
-              </div>
-            </div>
-            <div class="detail_box">
-              <div class="title_go">Design</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-2 text-center text-flow ">
-        <div class="how-is-going-para">
-          <div class="wow bounceInDown icon-container icon-container-4">
-            <div class="simple-text text-4">
-              <p class="">04</p>
-            </div>
-            <div class="icon-load">
-              <div class="icon_box">
-                <div class="border_icon"> <i class="fa fa-desktop" aria-hidden="true"></i> </div>
-              </div>
-            </div>
-            <div class="detail_box">
-              <div class="title_go">Development</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-2 text-center text-flow ">
-        <div class="how-is-going-para">
-          <div class="wow bounceInDown icon-container icon-container-5">
-            <div class="simple-text text-5">
-              <p class="">05</p>
-            </div>
-            <div class="icon-load">
-              <div class="icon_box">
-                <div class="border_icon"> <i class="fa fa-cogs" aria-hidden="true"></i> </div>
-              </div>
-            </div>
-            <div class="detail_box">
-              <div class="title_go">Testing</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-2 text-center text-flow ">
-        <div class="how-is-going-para">
-          <div class="wow bounceInUp  icon-container icon-container-6">
-            <div class="simple-text text-6">
-              <p class="">06</p>
-            </div>
-            <div class="icon-load">
-              <div class="icon_box">
-                <div class="border_icon"> <i class="fa fa-rocket" aria-hidden="true"></i> </div>
-              </div>
-            </div>
-            <div class="detail_box">
-              <div class="title_go">Launch</div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>
