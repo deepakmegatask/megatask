@@ -18,7 +18,7 @@ section.homepage-banner img {
 </style>
 
 <section class="homepage-banner">
-   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development.jpg" alt="web app development" title="web app development" class="slider-image"></a>
+   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development-company.jpg" alt="web app development" title="web app development" class="slider-image"></a>
 </section>
 
 
@@ -28,9 +28,9 @@ section.homepage-banner img {
     <div class="row pt-3 pb-5">
       <div class="col-sm-6 we-are-prof-img"> </div>
       <div class="col-sm-6 ">
-        <div class="we-are-professional">
+        <div class="hum-professional">
           <div id="">
-            <div class="we-are-professional-para title_lead">
+            <div class="hum-professional-para title_lead">
               <h2 class="text-left">We Are <strong class="lead">Professional</strong> Web Designing Team</h2>
               <h4 class="text-left">Our <strong><a href="https://megatasktechnologies.com/">Web design company in Delhi</a></strong> specializes in the professional creation of unique websites.</h4>
               <p class="text-justify"> At Megatask Technologies, our purpose is very simple to code & deliver your vision.  we began with a small team to develop basic websites. Today we still design and develop websites for people who start small - as well as for enterprises and tech giants of different industries and more. Our team constantly monitors the emergence of new technologies that we are not afraid to implement in websites. We create only selling websites – this is an achievement by drawing the design and working out usability. The approach to each new project is individual, we treat every customer equally, regardless of the size of the company and its budget. We also hold a good hand in Digital Marketing, having worked with eminent techniques like SEO, PPC, SMO, Email Marketing. and content writing. Our three main services of Web Design & Development, Digital Marketing and Search Engine Optimisation are all delivered using efficient processes to promote easily and reach our customer’s objectives. By using our processes we ensure that the best work are done by all experts which leads to the end product always being of the best quality. </p>
@@ -41,6 +41,7 @@ section.homepage-banner img {
     </div>
   </div>
 </section>
+<div class="clearfix"></div>
 <section>
   <div class="container-fluid">
     
