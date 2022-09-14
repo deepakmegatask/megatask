@@ -417,7 +417,7 @@ class Index extends CI_Controller
         $data["authname"] = "Umesh";
         $data["footdesc"] = "Best graphic designing Company in Delhi";
         $data["mpnnumber"] = "2826";
-        $data["ratingvalue"] = "5.6";
+        $data["ratingvalue"] = "4.0";
 
 
         $data["file"] = "public/graphic-design";
@@ -501,7 +501,7 @@ class Index extends CI_Controller
         $data["authname"] = "Amit";
         $data["footdesc"] = "Best Maintenance Services Company";
         $data["mpnnumber"] = "2856";
-        $data["ratingvalue"] = "5.2";
+        $data["ratingvalue"] = "4.9";
 
 
         $data["file"] = "public/maintenance-website";
