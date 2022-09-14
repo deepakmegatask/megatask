@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/livvic/v8/rnCq-x1S2hzjrlffw8Eesg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/livvic/v8/rnCp-x1S2hzjrlfnbw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/livvic/v8/rnCq-x1S2hzjrlffm8Aesg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/livvic/v8/rnCq-x1S2hzjrlfft8cesg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Livvic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/livvic/v8/rnCq-x1S2hzjrlff08Yesg.ttf) format('truetype');
+}

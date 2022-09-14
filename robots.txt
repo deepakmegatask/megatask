@@ -1,0 +1,24 @@
+User-agent: *
+allow: /
+
+Disallow: https://megatasktechnologies.com/terms-and-contitions
+
+Disallow: https://megatasktechnologies.com/contact-us
+
+Disallow: https://megatasktechnologies.com/our-team
+
+Disallow: https://megatasktechnologies.com/refund-and-cancellation-policy
+
+Disallow: https://megatasktechnologies.com/about-us
+
+Disallow: https://megatasktechnologies.com/contact_us
+
+Disallow: https://megatasktechnologies.com/privacy_policy
+
+Disallow: https://megatasktechnologies.com/disclaimer
+
+Disallow: https://megatasktechnologies.com/faqs
+
+Disallow: https://megatasktechnologies.com/why_choose_us
+
+Sitemap: https://megatasktechnologies.com/sitemap.xml
