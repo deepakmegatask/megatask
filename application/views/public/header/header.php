@@ -4,28 +4,20 @@
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title lang="en-in"><?php echo (isset($title))?$title:'megataskweb.com'; ?></title>
-  
-
 <meta name="keywords" content="<?php echo (isset($meta_keyword))?$meta_keyword:'Website Design Company Delhi, Web Development Company, Digital Marketing Agency, SEO Services Delhi, Graphic Design Agency Delhi, Mobile App Development Company, Social Media Marketing Company, Web Design & Development Company, Ecommerce Company Delhi, Ecommerce Website Company'; ?>"/>
-
 <meta name="description" content="<?php echo (isset($meta_description))?$meta_description:'Megatask Technology is the fastest-growing IT company in Delhi, India that offers an extended array of services including Website Design & Development, Mobile App Development, MLM Software, and Digital Marketing Services for the enterprise.'; ?>" />
-
 <meta name="robots" content="<?php echo (isset($meta_robot))?$meta_robot:'index,follow'; ?>" />
 <meta name="author" content="megatasktechnologies.com" />
 <meta name="copyright" content="&copy; 2022" />
-
 <meta name="p:domain_verify" content="633077d8d04e16efec6c70c02dbdd4d2"/>
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title" content="<?php echo (isset($meta_title))?$meta_title:'Web Design &  Development Company | Digital Marketing Agency Delhi | Megatask Technologies'; ?>">
-
 <meta property="og:description" content="<?php echo (isset($meta_description))?$meta_description:'Megatask Technology is the fastest-growing IT company in Delhi, India that offers an extended array of services including Website Design & Development, Mobile App Development, MLM Software, and Digital Marketing Services for the enterprise.'; ?>">
-
-<meta property="og:url" content="https://megatasktechnologies.com/">
-<meta property="og:image" content="https://megatasktechnologies.com/assets/images/megatask-technologies.jpg">
+<meta property="og:url" content="<?php echo $canonical;?>">
+<meta property="og:image" content="https://h7p2w6k8.stackpathcdn.com/assets/images/megatask-technologies.jpg">
 <meta property="og:site_name" content="Website Design Company in Delhi - Megatask Technologies" />
 <?php
 		/*<meta name="twitter:card" content="summary_large_image">
@@ -36,15 +28,10 @@
 <meta name="twitter:creator" content="@megatasktech">*/
 ?>
 <meta name="google-site-verification" content="adKuUJbW1cm-RHGG-juLOMsF-QldCA7_5PiyssJM9Y0" />
-
 <meta name="twitter:card" content="summary_large_image">
-
 <meta name="twitter:site" content="<?php echo (isset($twitter_site))?$twitter_site: 'Best Website Design Company in Delhi - Megatask Technologies'?>">
-
 <meta name="twitter:title" content="<?php echo (isset($twitter_title))?$twitter_title:'Website Design Company in Delhi - Megatask Technologies'?>">
-
 <meta name="twitter:description" content="<?php echo (isset($twitter_description))?$twitter_description:'We Megatask Technologies are the fastest-growing Website Design Company in Delhi Ncr. That offers an extended array of services for grow your buisness faster.'?>">
-
 <meta name="twitter:creator" content="@megatasktech">
 <meta name="twitter:image:src" content="https://megatasktechnologies.com/assets/images/logo.png">
 <meta name="distribution" content="global" />
@@ -56,8 +43,6 @@
 <meta name="document-type" content="public">
 <meta property="og:site_name" content="Megatask Technologies Pvt. Ltd. " />
 <meta name="google-site-verification" content="adKuUJbW1cm-RHGG-juLOMsF-QldCA7_5PiyssJM9Y0" />
-
-
 <link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/responsive.css">
 <?php
@@ -92,9 +77,7 @@
 <link rel="alternate" href="<?php echo $alternate ?>" hreflang="pt-PT" />
 <link rel="alternate" href="<?php echo $alternate ?>" hreflang="fr-CA" />
 <link rel="alternate" href="<?php echo $alternate ?>" hreflang="fr-BE" />
-
 <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
-
 <link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/build.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/jQuery-v3.5.1.js"> </script>
@@ -117,7 +100,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="https://h7p2w6k8.stackpathcdn.com/assets/images/favicon-16x16.png">
 <link rel="manifest" href="https://h7p2w6k8.stackpathcdn.com/assets/images/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-
 
 <script type="application/ld+json">
 {

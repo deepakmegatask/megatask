@@ -1,3 +1,55 @@
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "MegaTask Technologies",
+"url": "https://megatasktechnologies.com/maintenance-website/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Amit",
+"reviewBody": "Website Designing Company in Delhi  
+"reviewRating": {
+"@type": "Rating"
+"ratingValue": "1"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "MegaTask Technologies",
+"priceRange": "$ 10 Web Design Cost",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
+
+</script>
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type": "EmployerAggregateRating",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name" : "Megatask Technologies",
+        "sameAs" : "https://megatasktechnologies.com/maintenance-website"
+      },
+      "ratingValue": "98,
+      "bestRating": "92",
+      "worstRating": "1",
+      "ratingCount" : "1912
+    }
+    </script>
+
+
 <section class="">
 	<!--ecommerce home banner start-->
 	<div class="container-fluid digital-marketing-banner">

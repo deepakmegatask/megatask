@@ -175,24 +175,23 @@ class Index extends CI_Controller
     {
         $data = array();
         $data["title"] = "SMO Services in Delhi - Megatask Technologies";
-
-
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We are a professional Social Media Marketing Agency in Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
+
+        $data["meta_description"] = "We are a professional ✓Social Media Marketing Agency in Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
         $data["meta_keyword"] = "social media optimization, smo services in delhi, smo agency in delhi, social media optimization services delhi, local smo services";
 
-        $data["canonical"] = base_url()."";
-        $data["alternate"] = base_url()."";
-        $data["twitter_site"] = "SEO Services in Delhi ncr - Megatask Technologies";
-        $data["twitter_title"] = "SEO Service in Delhi - Megatask Technologies";
-        $data["twitter_description"] = "✓Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
+        $data["canonical"] = base_url()."smo-services/";
+        $data["alternate"] = base_url()."smo-services/";
+        $data["twitter_site"] = "SMO Services Company in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "SMO Service agency in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "We are a professional ✓Social Media Marketing Agency in Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
 
         //footer
-        $data["companyname"] = "Mega";
-        $data["authname"] = "Dharmesh";
-        $data["footdesc"] = "Best SEO Services in Delhi";
-        $data["mpnnumber"] = "2888";
-        $data["ratingvalue"] = "4.5";
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Sandeep";
+        $data["footdesc"] = "Best smo agency in Delhi";
+        $data["mpnnumber"] = "2884";
+        $data["ratingvalue"] = "4.3";
 
 
         $data["file"] = "public/smo-services";
@@ -204,23 +203,23 @@ class Index extends CI_Controller
     {
         $data = array();
         $data["title"] = "Social Media Marketing in Delhi - Megatask Technologies";
-
-
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We are a professional Social Media Marketing (SMM) Agency in  Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
-        $data["meta_keyword"] = "social media marketing, social media marketing company, smm services in delhi, india, smm services in delhi, smm company in delhi";
-        $data["canonical"] = base_url()."";
-        $data["alternate"] = base_url()."";
-        $data["twitter_site"] = "SEO Services in Delhi ncr - Megatask Technologies";
-        $data["twitter_title"] = "SEO Service in Delhi - Megatask Technologies";
-        $data["twitter_description"] = "✓Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
+
+        $data["meta_description"] = "We are a professional ✓Social Media Marketing ✓(SMM) Agency in  Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
+        $data["meta_keyword"] = "social media marketing, social media marketing company, smm services in delhi, india, smm services in delhi, smm company in delhi.";
+        $data["canonical"] = base_url()."smm-services";
+        $data["alternate"] = base_url()."smm-services";
+
+        $data["twitter_site"] = "Social Media Marketing in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Social Media Marketing company in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "We are a professional ✓Social Media Marketing ✓(SMM) Agency in  Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
 
         //footer
-        $data["companyname"] = "Mega";
-        $data["authname"] = "Dharmesh";
-        $data["footdesc"] = "Best SEO Services in Delhi";
-        $data["mpnnumber"] = "2888";
-        $data["ratingvalue"] = "4.5";
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Shoaib";
+        $data["footdesc"] = "Social Media Marketing in Delhi";
+        $data["mpnnumber"] = "2859";
+        $data["ratingvalue"] = "4.1";
 
 
         $data["file"] = "public/smm-services";
@@ -232,14 +231,23 @@ class Index extends CI_Controller
     {
         $data = array();
         $data["title"] = "Email Marketing Services in India - Megatask Technologies";
-
-
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We offers Content Writing Services in Delhi our content writers are expert and provide affordable website content for make your website readable and unique.";
-        $data["meta_keyword"] = "email marketing services in delhi, email marketing in delhi, email services, bulk email providers,email marketing agency, email marketing agency near me, email marketing services";
 
-        $data["canonical"] = base_url()."";
-        $data["alternate"] = base_url()."";
+        $data["meta_description"] = "Looking for a way to improve your Email marketing? Look no further than our ✓Email Marketing services! Our team of experts will help you create and send effective Email campaigns that will engage your audience and help you achieve your ✓Marketing goals.";
+        $data["meta_keyword"] = "Email Marketing services in delhi, Email Marketing in delhi, Email services, bulk Email providers,Email marketing agency, Email marketing agency near me, Email marketing services.";
+
+        $data["canonical"] = base_url()."email-services";
+        $data["alternate"] = base_url()."email-services";
+         $data["twitter_site"] = "Email Marketing Services in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Email Marketing Services in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "✓Email Marketing is a powerful Platform to reach and engage customers. Our Email Marketing services can help you create and send newsletters, promotions and other content to your customers.";
+
+        //footer
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Shoaib";
+        $data["footdesc"] = "Email Marketing Services in Delhi";
+        $data["mpnnumber"] = "2825";
+        $data["ratingvalue"] = "4.3";
 
 
 
@@ -251,14 +259,24 @@ class Index extends CI_Controller
     public function content_writing()
     {
         $data = array();
-        $data["title"] = "Content Writing Services in Delhi - Megatask Technologies";
-
-
+        $data["title"] = "Content Writing Services - Megatask Technologies";
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We are content marketing Agency in Delhi our content writers are expert and provide affordable website content for make your website readable and unique.";
+
+        $data["meta_description"] = "We are ✓content marketing Agency in Delhi our content writers are expert and provide ✓affordable website content for make your website readable and unique.";
         $data["meta_keyword"] = "content writing in delhi, content marketing in delhi, content marketing services, content marketing services dubai, Content creating site, content publisher";
-        $data["canonical"] = base_url()."";
-        $data["alternate"] = base_url()."";
+        $data["canonical"] = base_url()."content-writing/";
+        $data["alternate"] = base_url()."content-writing/";
+
+         $data["twitter_site"] = "Content Writing Services - Megatask Technologies";
+        $data["twitter_title"] = "Content Writing agency - Megatask Technologies";
+        $data["twitter_description"] = "We are ✓content marketing Agency in Delhi India our content writers are expert and provide ✓affordable website content for make your website readable and unique.";
+
+        //footer
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Umesh";
+        $data["footdesc"] = "Best Content Writing Services";
+        $data["mpnnumber"] = "2881";
+        $data["ratingvalue"] = "4.3";
 
 
 
@@ -271,14 +289,24 @@ class Index extends CI_Controller
     {
         $data = array();
         $data["title"] = "Google Analytics Consulting Services - Megatask Technologies";
-
-
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "The Google Analytics Services can provide useful information about the source of website traffic, how users are navigating and interacting throughout a website.
+
+        $data["meta_description"] = "The ✓Google Analytics Services can provide useful information about the source of ✓website traffic, how users are navigating and interacting throughout a website.
         ";
-        $data["meta_keyword"] = "website analytics services, web analytics service delhi, traffic analtics agency india";
-        $data["canonical"] = base_url()."";
-        $data["alternate"] = base_url()."";
+        $data["meta_keyword"] = "✓website analytics services, web analytics service delhi, traffic analtics agency india";
+        $data["canonical"] = base_url()."google-analytics/";
+        $data["alternate"] = base_url()."google-analytics/";
+
+         $data["twitter_site"] = "Google Analytics Consulting - Megatask Technologies";
+        $data["twitter_title"] = "Google Analytics Consulting agency - Megatask Technologies";
+        $data["twitter_description"] = "The ✓Google Analytics Services can provide useful information about the source of ✓website traffic, how users are navigating and interacting throughout a website.";
+
+        //footer
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Umesh";
+        $data["footdesc"] = "Best Google Analytics Consulting";
+        $data["mpnnumber"] = "2880";
+        $data["ratingvalue"] = "4.3";
 
 
         $data["file"] = "public/google-analytics";
@@ -316,14 +344,24 @@ class Index extends CI_Controller
     public function digital_marketing()
     {
         $data = array();
-        $data["title"] = "#1 Interenet Marketing Agency:Top Digital Marketing agency in Delhi";
-
-
+        $data["title"] = "Digital Marketing Agency in Delhi - Megatask Technologies";
          $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "We at Megatask Technologies always prefer to give #1 offers to Digital Marketing services in Delhi and deliver Positive traffic growth through Google ads, bing ads, aol ads etc";
-        $data["meta_keyword"] = "digital marketing agency in delhi, digital marketing in delhi, digital marketing company in delhi, digital marketing, digital marketing services in noida, online marketing, online ads, search engine ads, google ads, bing ads, aol ads, paid search";
-        $data["canonical"] = base_url()."";
-        $data["alternate"] = base_url()."";
+
+        $data["meta_description"] = "We at Megatask Technologies always prefer to give best ✓Digital Marketing services in Delhi and deliver Positive ✓traffic growth through ✓Google ads, bing ads, aol ads etc";
+        $data["meta_keyword"] = "digital marketing agency in delhi, digital marketing in delhi, digital marketing company in delhi, digital marketing, digital marketing services in noida, online marketing,";
+        $data["canonical"] = base_url()."digital-marketing/";
+        $data["alternate"] = base_url()."digital-marketing/";
+
+        $data["twitter_site"] = "Digital Marketing Agency - Megatask Technologies";
+        $data["twitter_title"] = "Digital Marketing Agency in Delhi - Megatask Technologies";
+        $data["twitter_description"] = "We at Megatask Technologies always prefer to give best ✓Digital Marketing services in Delhi and deliver Positive ✓traffic growth through ✓Google ads, bing ads, aol ads etc";
+
+        //footer
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Jitender";
+        $data["footdesc"] = "Best Digital marketing Consulting";
+        $data["mpnnumber"] = "2879";
+        $data["ratingvalue"] = "4.8";
 
 
         $data["file"] = "public/digital-marketing";
@@ -446,25 +484,24 @@ class Index extends CI_Controller
     public function maintenance_website()
     {
         $data = array();
-        $data["title"] = "Website Maintenance Services in Delhi - Mega Task";
-
-
+        $data["title"] = "Website Maintenance Services - Megatask Technologies";
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Complete Website Maintenance Service and Support Services for WordPress, Magento, PHP, Codeigniter, Laravel, Cake php & Mobile App. Choose Website Maintenance Plan as per your need";
-        $data["meta_keyword"] = "website maintenance service, website maintenance services in delhi, website maintenance in delhi, website maintenance company delhi, web maintenance agency, website maintenance";
 
-        $data["canonical"] = base_url()."";
-        $data["alternate"] = base_url()."";
-        $data["twitter_site"] = "Responsive Web Design Services in Delhi - Megatask Technologies";
-        $data["twitter_title"] = "Responsive Web Design Services - Megatask Technologies";
-        $data["twitter_description"] = "✓Responsive web design provides solutions by making websites and applications smart enough to resize and adapt its content based on the screen size of the device.";
+        $data["meta_description"] = "Complete Website Maintenance Service and Support Services for WordPress, Magento, PHP, Codeigniter, Laravel, Cake php & Mobile App. Choose Website Maintenance Plan as per your need.";
+        $data["meta_keyword"] = "website Maintenance service, website Maintenance services in delhi, website Maintenance in delhi, website Maintenance company delhi, web Maintenance agency, website maintenance";
+
+        $data["canonical"] = base_url()."maintenance-website/";
+        $data["alternate"] = base_url()."maintenance-website/";
+        $data["twitter_site"] = "Best Website Design Company in Delhi - Megatask Technologies";
+        $data["twitter_title"] = "Megatask Technologies - Maintenance-website";
+        $data["twitter_description"] = "Complete Website Maintenance Service and Support Services we provide for WordPress, Magento, PHP, Codeigniter, Laravel, Cake php & Mobile App. Choose Website Maintenance Plan as per your need.";
 
         //footer
-        $data["companyname"] = "Mega";
-        $data["authname"] = "Ashu";
-        $data["footdesc"] = "Best Responsive Web Design Services";
-        $data["mpnnumber"] = "2898";
-        $data["ratingvalue"] = "4.6";
+        $data["companyname"] = "Megatask technologies";
+        $data["authname"] = "Amit";
+        $data["footdesc"] = "Best Maintenance Services Company";
+        $data["mpnnumber"] = "2856";
+        $data["ratingvalue"] = "5.2";
 
 
         $data["file"] = "public/maintenance-website";
@@ -477,23 +514,23 @@ class Index extends CI_Controller
     public function web_development()
     {
         $data = array();
-        $data["title"] = "Wordpress Development Company in Delhi - Megatask Technologies";
+        $data["title"] = "Website Development Company in Delhi - Megatask Technologies";
         $data["meta_title"] = $data["title"];
 
-        $data["meta_description"] = "✓Wordpress Development Company in Delhi - Megatask Technology is growing ✓Wordpress Website Design Company offering theme customization, plugin customization etc.";
+        $data["meta_description"] = "✓Website Development Company in Delhi - Megatask Technology is growing ✓Website Website Design Company offering theme customization, plugin customization etc.";
 
-        $data["meta_keyword"] = "wordpress development company in delhi, wordpress development in delhi, wordpress development agency, wordpress development company, wordpress development delhi, wordpress development services india, wordpress development company in india";
+        $data["meta_keyword"] = "Website development company in delhi, Website development in delhi, Website development agency, Website development company, Website development delhi, Website development services india, Website development company in india";
 
-        $data["canonical"] = base_url()."web-wordpress/";
-        $data["alternate"] = base_url()."web-wordpress/";
-        $data["twitter_site"] = "Wordpress Development Company - Megatask Technologies";
-        $data["twitter_title"] = "Wordpress Development agency - Megatask Technologies";
-        $data["twitter_description"] = "✓Wordpress Development Company in Delhi - Megatask Technology is growing ✓Wordpress Website Design Company offering theme customization, plugin customization etc.";
+        $data["canonical"] = base_url()."web-Website/";
+        $data["alternate"] = base_url()."web-Website/";
+        $data["twitter_site"] = "Website Development Company - Megatask Technologies";
+        $data["twitter_title"] = "Website Development agency - Megatask Technologies";
+        $data["twitter_description"] = "✓Website Development Company in Delhi - Megatask Technology is growing ✓Website Website Design Company offering theme customization, plugin customization etc.";
 
         //footer
         $data["companyname"] = "Mega";
         $data["authname"] = "Deepak";
-        $data["footdesc"] = "Best Wordpress Development agency";
+        $data["footdesc"] = "Best Website Development agency";
         $data["mpnnumber"] = "2891";
         $data["ratingvalue"] = "4.9";
 
@@ -534,26 +571,26 @@ class Index extends CI_Controller
     public function contact_us()
     {
         $data = array();
-        $data["title"] = "Contact Best Web Development company in Delhi, Contact Us";
-
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
-
+        $data["title"] = "Contact US - Megatask Technologies";
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Contact Megatask Technologies- We feel always happy to help and advice if you have any questions or inquiries.";
-        $data["meta_keyword"] = "website design company, web development company india, digital marketing agency delhi, seo agency delhi-ncr, ppc services delhi";
-        $data["canonical"] = "https://megatasktechnologies.com/portfolio";
-        $data["alternate"] = "https://megatasktechnologies.com/portfolio";
-        $data["twitter_site"] = "Best Website Design Company in Delhi - Megatask Technologies";
-        $data["twitter_title"] = "Megatask Technologies - Portfolio";
-        $data["twitter_description"] = "Promising to deliver the services is one thing and letting our services talk for themselves is another. We have delivered several hundred services which include website designing and development.";
+
+        $data["meta_description"] = "We at ✓Megatask Technologies always prefer to give best ✓Digital Marketing services in Delhi and deliver Positive ✓traffic growth through ✓Google ads, bing ads, aol ads etc";
+        $data["meta_keyword"] = "Contact Megatask, digital marketing in delhi, digital marketing company in delhi, digital marketing, digital marketing services in noida, online marketing,";
+
+
+        $data["canonical"] = base_url()."contact-us/";
+        $data["alternate"] = base_url()."contact-us/";
+
+        $data["twitter_site"] = "Contact us - Megatask Technologies";
+        $data["twitter_title"] = "Megatask Contact us - Megatask Technologies";
+        $data["twitter_description"] = "We at Megatask Technologies always prefer to give best ✓Digital Marketing services in Delhi and deliver Positive ✓traffic growth through ✓Google ads, bing ads, aol ads etc";
 
         //footer
-        $data["companyname"] = "Megatask Technologies";
-        $data["authname"] = "Amit";
-        $data["footdesc"] = "Best Web Development Company";
-        $data["mpnnumber"] = "2891";
-        $data["ratingvalue"] = "4.1";
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Jitender";
+        $data["footdesc"] = "Best Digital marketing Consulting";
+        $data["mpnnumber"] = "2876";
+        $data["ratingvalue"] = "4.5";
 
 
         $data["file"] = "public/contact-us";

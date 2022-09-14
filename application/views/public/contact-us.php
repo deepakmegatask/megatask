@@ -1,14 +1,52 @@
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "Mega Tasktechnologies",
+"url": "https://megatasktechnologies.com/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Amit",
+"reviewBody": "Top Digital Marketing agency",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "Digital Marketing agency",
+"priceRange": "$ 200 Digital Marketing agency",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
 
-
-
-
-
-
-
-
-
-
-
+</script>
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type": "EmployerAggregateRating",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name" : "Best Website design agency",
+        "sameAs" : "https://megatasktechnologies.com/contact-us"
+      },
+      "ratingValue": "94",
+      "bestRating": "98",
+      "worstRating": "1",
+      "ratingCount" : "190565"
+    }
+    </script>
 
 <!-- <section class="">
    <div class="container-fluid website-design-contain contactus-contain-101">
