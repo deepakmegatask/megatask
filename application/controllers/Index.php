@@ -52,6 +52,9 @@ class Index extends CI_Controller
         $data["meta_keyword"] = "website design company india, web development company, digital marketing agency noida, it company delhi, graphic design agency, seo agency delhi";
         $data["file"] = "public/about-us";
 
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
+
         $this
             ->load
             ->view('public/header/template', $data);
@@ -68,6 +71,9 @@ class Index extends CI_Controller
          $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Different skills but one team- Meet our all the experience team members they are experts in designing development and marketing.";
         $data["meta_keyword"] = "it company delhi, it service provider, graphic design agency, digital marketing agency, software development company";
+
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
 
@@ -87,6 +93,8 @@ class Index extends CI_Controller
          $data["meta_title"] = $data["title"];
         $data["meta_description"] = "We are E-commerce website Development Company in India that gives you best Services for best dynamic and responsive online store.";
         $data["meta_keyword"] = "ecommerce website development company in india, ecommerce website design company , ecommerce web development services, ecommerce web development delhi, e-commerce website india";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
 
@@ -104,6 +112,9 @@ class Index extends CI_Controller
 		$data["meta_title"] = $data["title"];
 		$data["meta_description"] = "Our SEO Services in Delhi starts by in-depth best research for your business related to current status and trends to attract positive traffic to your website.";
 		$data["meta_keyword"] = "seo services in delhi, seo company in delhi, seo agency in delhi, local seo services, local seo in delhi";
+
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
 
@@ -123,6 +134,8 @@ class Index extends CI_Controller
         $data["meta_description"] = "We are a professional Social Media Marketing Agency in Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
         $data["meta_keyword"] = "social media optimization, smo services in delhi, smo agency in delhi, social media optimization services delhi, local smo services";
 
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/smo-services";
@@ -139,7 +152,8 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "We are a professional Social Media Marketing (SMM) Agency in  Delhi. Our Experts help you reach business goals and connect with the best audience you want to attract.";
         $data["meta_keyword"] = "social media marketing, social media marketing company, smm services in delhi, india, smm services in delhi, smm company in delhi";
-
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/smm-services";
@@ -157,6 +171,9 @@ class Index extends CI_Controller
         $data["meta_description"] = "We offers Content Writing Services in Delhi our content writers are expert and provide affordable website content for make your website readable and unique.";
         $data["meta_keyword"] = "email marketing services in delhi, email marketing in delhi, email services, bulk email providers,email marketing agency, email marketing agency near me, email marketing services";
 
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
+
 
 
         $data["file"] = "public/email-services";
@@ -173,6 +190,8 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "We are content marketing Agency in Delhi our content writers are expert and provide affordable website content for make your website readable and unique.";
         $data["meta_keyword"] = "content writing in delhi, content marketing in delhi, content marketing services, content marketing services dubai, Content creating site, content publisher";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
 
@@ -191,7 +210,8 @@ class Index extends CI_Controller
         $data["meta_description"] = "The Google Analytics Services can provide useful information about the source of website traffic, how users are navigating and interacting throughout a website.
         ";
         $data["meta_keyword"] = "website analytics services, web analytics service delhi, traffic analtics agency india";
-
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/google-analytics";
@@ -208,7 +228,8 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Megask always prefer to give best offers to SEM Services and deliver transformational traffic through facebook and other social medial paid marketing campaigns.";
         $data["meta_keyword"] = "sem services in india, sem services company india, sem services dubai, sem services delhi-ncr";
-
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/sem-services";
@@ -225,7 +246,8 @@ class Index extends CI_Controller
          $data["meta_title"] = $data["title"];
         $data["meta_description"] = "We at Megatask Technologies always prefer to give #1 offers to Digital Marketing services in Delhi and deliver Positive traffic growth through Google ads, bing ads, aol ads etc";
         $data["meta_keyword"] = "digital marketing agency in delhi, digital marketing in delhi, digital marketing company in delhi, digital marketing, digital marketing services in noida, online marketing, online ads, search engine ads, google ads, bing ads, aol ads, paid search";
-
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/digital-marketing";
@@ -242,7 +264,8 @@ class Index extends CI_Controller
          $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Megatask Technologies is a Pay Per Click Ads Management Company in Delhi, a Google certified PPC Services with a solid ROI to increase your business revenue.";
         $data["meta_keyword"] = "PPC Services in Delhi, Pay Per Click Agency Delhi, cheap PPC Services, PPC Company in Delhi, Best Pay Per Click (PPC) Management Services in Delhi, Best PPC Management Company, PPC Services India, PPC Company in Delhi, PPC Pay per click Services Company, Best PPC Agency in Delhi";
-
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/ppc-services";
@@ -259,7 +282,8 @@ class Index extends CI_Controller
          $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Looking for Graphic Design Company in Delhi. Megatask Technologies offers affordable creative graphic design services to agencies all around the world.";
         $data["meta_keyword"] = "graphic design agency delhi, graphic design company delhi, graphic design services in delhi, graphic design agency delhi. graphic designers";
-
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/graphic-design";
@@ -276,6 +300,8 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Website Redesign Company in India. Our Website Redesigning Services enhance your web visibility or look and feel to give your user a good impression.";
         $data["meta_keyword"] = "Website Redesign Company, website redesign services india, website redesign agency delhi";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/website-redesign";
@@ -293,6 +319,8 @@ class Index extends CI_Controller
         $data["meta_description"] = "Complete Website Maintenance Service and Support for WordPress, Magento, PHP, Codeigniter, Laravel, Cake php & Mobile App. Choose Website Maintenance Plan..";
         $data["meta_keyword"] = "responsive website design delhi, responsive web design delhi, responsive web services delhi-ncr, responsive website designer delhi";
 
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
         $data["file"] = "public/responsive-website";
         $this
@@ -309,6 +337,8 @@ class Index extends CI_Controller
         $data["meta_description"] = "Complete Website Maintenance Service and Support Services for WordPress, Magento, PHP, Codeigniter, Laravel, Cake php & Mobile App. Choose Website Maintenance Plan as per your need";
         $data["meta_keyword"] = "website maintenance service, website maintenance services in delhi, website maintenance in delhi, website maintenance company delhi, web maintenance agency, website maintenance";
 
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
 
         $data["file"] = "public/maintenance-website";
@@ -327,6 +357,8 @@ class Index extends CI_Controller
         $data["meta_description"] = "Our expert website development team offer quality development services to our clients which help them grow their website development next level.";
         $data["meta_keyword"] = "website development company delhi, web development delhi, web developer, web development agency, web development services, web development in india, php development, php developer, asp developer, java developer, js developer, magento developement, ci development";
 
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
         $data["file"] = "public/web-development";
         $this
@@ -343,7 +375,8 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "";
         $data["meta_keyword"] = "";
-
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
         $data["file"] = "public/portfolio";
         $this
@@ -356,6 +389,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Contact Best Web Development company in Delhi, Contact Us";
 
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Contact Megatask Technologies- We feel always happy to help and advice if you have any questions or inquiries.";
@@ -372,6 +407,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Why Choose Megatask Technologies-Web Development & Web Design";
         $data["file"] = "public/why-choose-us";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
         $this
             ->load
             ->view('public/header/template', $data);
@@ -381,6 +418,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/faq";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
         $this
             ->load
             ->view('public/header/template', $data);
@@ -401,6 +440,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/privacy-policy";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
         $this
             ->load
             ->view('public/header/template', $data);
@@ -410,6 +451,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/disclaimer";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
         $this
             ->load
             ->view('public/header/template', $data);
@@ -419,6 +462,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/terms-and-conditions";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
         $this
             ->load
             ->view('public/header/template', $data);
@@ -428,6 +473,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/refund-and-cancellation-policy";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
         $this
             ->load
             ->view('public/header/template', $data);
@@ -437,6 +484,8 @@ class Index extends CI_Controller
         $data = array();
         $data["title"] = "Best Price of Web Designing in Delhi & Sofware Development ";
         $data["file"] = "public/web-price";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
         $this
             ->load
             ->view('public/header/template', $data);
@@ -456,8 +505,11 @@ class Index extends CI_Controller
 		$data["meta_title"] = $data["title"];
         $data["meta_description"] = "Wordpress Development Company in Delhi - Megatask Technology is growing Wordpress Website Design Company offering theme customization, plugin customization etc.";
         $data["meta_keyword"] = "wordpress development company in delhi, wordpress development in delhi, wordpress development agency, wordpress development company, wordpress development delhi, wordpress development services india, wordpress development company in india, wordpress theme for web development company, wordpress website development company india";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 		
         $data["file"] = "public/web-wordpress";
+
         $this
             ->load
             ->view('public/header/template', $data);
@@ -472,6 +524,8 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "Shopify Website Development Company - Raising The Bar For Shopify Expertise · Get The Best Of Web With Leading Shopify Development Company Based in Delhi.";
         $data["meta_keyword"] = "shopify development company delhi, shopify development services, shopify development agency, top shopify development companies in delhi, shopify developer near me, best shopify developers, shopify experts in delhi";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 		
         $data["file"] = "public/web-shopify";
         $this
@@ -487,6 +541,8 @@ class Index extends CI_Controller
         $data["meta_title"] = $data["title"];
         $data["meta_description"] = "We provide you with high-quality WIX website development services and demonstrate their multi-functionality by utilizing the capabilities of this new platform";
         $data["meta_keyword"] = "wix website development services delhi, wix website development company, wix web development, wix development company, wix theme developement agency, wix custome theme development web development in delhi";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 		
         $data["file"] = "public/web-wixdevelop";
         $this
@@ -511,6 +567,8 @@ class Index extends CI_Controller
 		$data["meta_title"] = $data["title"];
         $data["meta_description"] = " Megatask Technologies is a Software Development Company in Delhi. We assist you with professional scalable software solutions for enterprises and startups.";
         $data["meta_keyword"] = "software application development company, software development company in delhi, software development company in delhi, software developer company in delhi, software development company delhi, top software development company in delhi, best software development company in delhi, software development services in delhi, best software development company in delhi ncr, software development company in delhi ncr, software development in noida, software development company in gurgaon, custom software development company";
+        $data["canonical"] = "https://megatasktechnologies.com/";
+        $data["alternate"] = "https://megatasktechnologies.com/";
 		
         $data["file"] = "public/software-development";
         $this
