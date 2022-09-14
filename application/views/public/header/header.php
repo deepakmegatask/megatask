@@ -9,7 +9,9 @@
 
 
 <meta name="keywords" content="<?php echo (isset($meta_keyword))?$meta_keyword:'Website Design Company Delhi, Web Development Company, Digital Marketing Agency, SEO Services Delhi, Graphic Design Agency Delhi, Mobile App Development Company, Social Media Marketing Company, Web Design & Development Company, Ecommerce Company Delhi, Ecommerce Website Company'; ?>"/>
+
 <meta name="description" content="<?php echo (isset($meta_description))?$meta_description:'Megatask Technology is the fastest-growing IT company in Delhi, India that offers an extended array of services including Website Design & Development, Mobile App Development, MLM Software, and Digital Marketing Services for the enterprise.'; ?>" />
+
 <meta name="robots" content="<?php echo (isset($meta_robot))?$meta_robot:'index,follow'; ?>" />
 <meta name="author" content="megatasktechnologies.com" />
 <meta name="copyright" content="&copy; 2022" />
@@ -19,6 +21,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title" content="<?php echo (isset($meta_title))?$meta_title:'Web Design &  Development Company | Digital Marketing Agency Delhi | Megatask Technologies'; ?>">
+
 <meta property="og:description" content="<?php echo (isset($meta_description))?$meta_description:'Megatask Technology is the fastest-growing IT company in Delhi, India that offers an extended array of services including Website Design & Development, Mobile App Development, MLM Software, and Digital Marketing Services for the enterprise.'; ?>">
 <meta property="og:url" content="https://megatasktechnologies.com/">
 <meta property="og:image" content="https://megatasktechnologies.com/assets/images/megatask-technologies.jpg">
@@ -206,8 +209,6 @@
 <link rel="preload"  href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
 <link rel="flaticon" href="https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/js/flat-ui.min.js">
 
-
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css">
 <!-- jquery-->
 
@@ -232,10 +233,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KMDRHFT');</script>
 <!-- End Google Tag Manager -->
-
-
-
-
 <?php
 		/*
 				<!-- Global site tag (gtag.js) - Google Analytics
@@ -265,12 +262,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		*/
 ?>
-
-
-
-
-<!-- Facebook Pixel Code -->
-<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '259810769083379');fbq('track', 'PageView');</script><noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=259810769083379&ev=PageView&noscript=1"/></noscript><!-- End Facebook Pixel Code -->
 
 <!-- Start of  Zendesk Widget script -->
 <script rel="preload"  id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a0303315-ef47-4d79-b4fb-bc71f579c6cd"> </script>

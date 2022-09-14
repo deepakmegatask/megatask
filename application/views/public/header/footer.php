@@ -191,7 +191,7 @@
         <h5 class="modal-title text-center" id="exampleModalLabel">Alert Message</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
       </div>
-      <div class="modal-body text-center"> <img src="<?php echo base_url()?>assets/images/success.png" width="100" height="100" alt="Success" />
+      <div class="modal-body text-center"> <img src="https://h7p2w6k8.stackpathcdn.com/assets/images/success.png" width="100" height="100" alt="Success" />
         <h5>Message Sent.</h5> </div>
     </div>
   </div>
@@ -219,7 +219,7 @@
     <div class="bubble x20"></div>-->
 </div>
     <!--// modal-->
-    <script  defer src="<?php echo base_url();?>assets/src/js/wow.js"> </script>
+    <script  defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/wow.js"> </script>
      <script  defer>
               new WOW().init();
               </script>
