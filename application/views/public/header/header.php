@@ -46,8 +46,8 @@
 <meta name="google-site-verification" content="adKuUJbW1cm-RHGG-juLOMsF-QldCA7_5PiyssJM9Y0" />
 
 
-<link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/bootstrap.min.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/responsive.css">
+<link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/responsive.css">
 <?php
 	$this->load->helper('url');
 	$currentURL = current_url();
@@ -83,27 +83,27 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/build.css">
+<link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/build.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script defer src="<?php echo base_url();?>assets/src/js/jQuery-v3.5.1.js"> </script>
-<script defer src="<?php echo base_url();?>assets/src/js/jquery-3.5.1.min.js"> </script>
-<script defer src="<?php echo base_url();?>assets/src/js/bootstrap.min.js"> </script> 
-<link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/animate.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/megatask-animation.css">
-<link rel="apple-touch-icon" sizes="57x57" href="<?php echo base_url();?>assets/images/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="<?php echo base_url();?>assets/images/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url();?>assets/images/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="<?php echo base_url();?>assets/images/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url();?>assets/images/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="<?php echo base_url();?>assets/images/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="<?php echo base_url();?>assets/images/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="<?php echo base_url();?>assets/images/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="<?php echo base_url();?>assets/images/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="<?php echo base_url();?>assets/images/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url();?>assets/images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="<?php echo base_url();?>assets/images/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url();?>assets/images/favicon-16x16.png">
-<link rel="manifest" href="<?php echo base_url();?>assets/images/manifest.json">
+<script defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/jQuery-v3.5.1.js"> </script>
+<script defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/jquery-3.5.1.min.js"> </script>
+<script defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/bootstrap.min.js"> </script> 
+<link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/animate.css">
+<link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/megatask-animation.css">
+<link rel="apple-touch-icon" sizes="57x57" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://h7p2w6k8.stackpathcdn.com/assets/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://h7p2w6k8.stackpathcdn.com/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://h7p2w6k8.stackpathcdn.com/assets/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://h7p2w6k8.stackpathcdn.com/assets/images/favicon-16x16.png">
+<link rel="manifest" href="https://h7p2w6k8.stackpathcdn.com/assets/images/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 
 
