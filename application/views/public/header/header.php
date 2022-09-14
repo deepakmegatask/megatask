@@ -11,7 +11,6 @@
 <meta name="author" content="megatasktechnologies.com" />
 <meta name="copyright" content="&copy; 2022" />
 <meta name="p:domain_verify" content="633077d8d04e16efec6c70c02dbdd4d2"/>
-<!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
 <meta property="og:title" content="<?php echo (isset($meta_title))?$meta_title:'Web Design &  Development Company | Digital Marketing Agency Delhi | Megatask Technologies'; ?>">
@@ -19,14 +18,6 @@
 <meta property="og:url" content="<?php echo $canonical;?>">
 <meta property="og:image" content="https://h7p2w6k8.stackpathcdn.com/assets/images/megatask-technologies.jpg">
 <meta property="og:site_name" content="Website Design Company in Delhi - Megatask Technologies" />
-<?php
-		/*<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content=" Web Design & Development Company | Digital Marketing Agency Delhi | Megatask Technologies ">
-<meta name="twitter:description" content="Megatask Technology is the fastest-growing IT company in Delhi, India that offers an extended array of services including Website Design & Development, Mobile App Development, MLM Software, and Digital Marketing Services for the enterprise.">
-<meta name="twitter:image" content=" https://megatasktechnologies.com/assets/images/megatask-technologies.jpg ">
-<meta name="twitter:site" content=" Megatask Technologies ">
-<meta name="twitter:creator" content="@megatasktech">*/
-?>
 <meta name="google-site-verification" content="adKuUJbW1cm-RHGG-juLOMsF-QldCA7_5PiyssJM9Y0" />
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="<?php echo (isset($twitter_site))?$twitter_site: 'Best Website Design Company in Delhi - Megatask Technologies'?>">
@@ -100,7 +91,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="https://h7p2w6k8.stackpathcdn.com/assets/images/favicon-16x16.png">
 <link rel="manifest" href="https://h7p2w6k8.stackpathcdn.com/assets/images/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-
 <script type="application/ld+json">
 {
 "@context": "https://schema.org",
@@ -133,7 +123,6 @@
 }
 }
 }
-
 </script>
 <script type="application/ld+json">
     {
@@ -150,7 +139,6 @@
       "ratingCount" : "190561"
     }
     </script>
-
 <script  defer type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -194,54 +182,24 @@
   ] 
 }
 </script>
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload"  href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
 <link rel="flaticon" href="https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/js/flat-ui.min.js">
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css">
-<!-- jquery-->
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-73E5V19P68"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-73E5V19P68');
   gtag('config', 'AW-10784563968');
 </script>
-<!--end Global site tag (gtag.js) - Google Analytics -->
-
-
-<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KMDRHFT');</script>
-<!-- End Google Tag Manager -->
-<?php
-		/*
-				<!-- Global site tag (gtag.js) - Google Analytics
-
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178522838-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-178522838-1');
-</script>
-
--->
-
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RRL2XVM0R9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -250,20 +208,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   gtag('config', 'G-RRL2XVM0R9');
 </script>
-
-		*/
-?>
-
-<!-- Start of  Zendesk Widget script -->
 <script rel="preload"  id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a0303315-ef47-4d79-b4fb-bc71f579c6cd"> </script>
-<!-- End of  Zendesk Widget script -->
- 
 </head>
 <body>
- 
-	 
-
-<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMDRHFT"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->

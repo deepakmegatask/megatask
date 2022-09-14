@@ -16,12 +16,9 @@ section.homepage-banner img {
     height: auto;
 }
 </style>
-
 <section class="homepage-banner">
-   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development-company.jpg" alt="web app development" title="web app development" class="slider-image"></a>
+   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development-company.jpg" alt="web app development" title="web app development" class="slider-image" width="1920" height="690"></a>
 </section>
-
-
 <div class="clearfix"></div>
 <section>
   <div class="container-fluid we-are-contain">
@@ -31,9 +28,8 @@ section.homepage-banner img {
         <div class="hum-professional">
           <div id="">
             <div class="hum-professional-para title_lead">
-              <h2 class="text-left">We Are <strong class="lead">Professional</strong> Web Designing Team</h2>
-              <h4 class="text-left">Our <strong><a href="https://megatasktechnologies.com/">Web design company in Delhi</a></strong> specializes in the professional creation of unique websites.</h4>
-              <p class="text-justify"> At Megatask Technologies, our purpose is very simple to code & deliver your vision.  we began with a small team to develop basic websites. Today we still design and develop websites for people who start small - as well as for enterprises and tech giants of different industries and more. Our team constantly monitors the emergence of new technologies that we are not afraid to implement in websites. We create only selling websites – this is an achievement by drawing the design and working out usability. The approach to each new project is individual, we treat every customer equally, regardless of the size of the company and its budget. We also hold a good hand in Digital Marketing, having worked with eminent techniques like SEO, PPC, SMO, Email Marketing. and content writing. Our three main services of Web Design & Development, Digital Marketing and Search Engine Optimisation are all delivered using efficient processes to promote easily and reach our customer’s objectives. By using our processes we ensure that the best work are done by all experts which leads to the end product always being of the best quality. </p>
+              <h2 class="text-left">We Are Expert in Cutting <strong class="lead">Edge Technology</strong></h2>
+              <p class="text-justify"> At Megatask Technologies, our purpose is very simple to code & deliver your vision.  we began with a small team to develop basic websites. Today we still design and develop websites for people who start small - as well as for enterprises and tech giants of different industries and more. Our team constantly monitors the emergence of new technologies that we are not afraid to implement in websites. We create only selling websites – this is an achievement by drawing the design and working out usability. The approach to each new project is individual, we treat every customer equally, regardless of the size of the company and its budget. We also hold a good hand in <a href="<?php echo base_url();?>digital-marketing">Digital Marketing</a>, having worked with eminent techniques like SEO, PPC, SMO, Email Marketing. and content writing. Our three main services of Web Design & Development, Digital Marketing and Search Engine Optimisation are all delivered using efficient processes to promote easily and reach our customer’s objectives. By using our processes we ensure that the best work are done by all experts which leads to the end product always being of the best quality. </p>
             </div>
           </div>
         </div>
@@ -46,11 +42,11 @@ section.homepage-banner img {
   <div class="container-fluid">
     
     <div class="row bottom-img">
-      <img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/megatask-services.jpg" alt="Megatask Services" title="Megatask Services">
+      <img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/megatask-services.jpg" alt="Megatask Services" title="Megatask Services" width="1920" height="540">
     </div>
   </div>
 </section>
-<section class="our-services-section">
+<div class="our-services-section">
   <div class="container-fluid">
     <div class="row website-design-row">
       <div class="col-md-8 offset-md-2">
@@ -64,7 +60,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/WebsiteDevelopment.webp" alt="Website Development" title="Website Development" class="img-rounded">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/WebsiteDevelopment.webp" alt="Website Development" title="Website Development" class="img-rounded" width="500" height="360">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -82,7 +78,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/digitalmarketing.webp" alt="Digital Marketing" title="Digital Marketing" class="img-rounded">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/digitalmarketing.webp" alt="Digital Marketing" title="Digital Marketing" class="img-rounded" width="500" height="360">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -100,7 +96,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy" src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/Graphic-Design.webp" alt="Graphic Design" title="Graphic Design" class="img-rounded">
+            <img loading="lazy" src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/Graphic-Design.webp" alt="Graphic Design" title="Graphic Design" class="img-rounded" width="500" height="360">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -118,7 +114,7 @@ section.homepage-banner img {
       <div class="col-md-3">
         <div class="sr">
           <div class="dr-img">
-            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/website-redesigning.png" alt="Website Re-designing" title="Website Re-designing" class="img-rounded">
+            <img loading="lazy"  src="https://h7p2w6k8.stackpathcdn.com/assets/images/services/website-redesigning.png" alt="Website Re-designing" title="Website Re-designing" class="img-rounded" width="500" height="360">
           </div>
           <div class="sr-cont">
             <div class="sr-head">
@@ -137,7 +133,7 @@ section.homepage-banner img {
     </div>
     
   </div>
-</section>
+</div>
 
 
 <section class="pt-5 pb-5 website-design-contain">
@@ -159,7 +155,7 @@ section.homepage-banner img {
 					?>
 					<div class="col-md-4 p-img">
 						<div class="Scriptcontent">
-						<img class="myImg img-rounded" data-id="<?php echo $i;?>" data-largimage="assets/images/Portfolio/<?php echo $name;?>" loading="lazy"   id="myimage<?php echo $i;?>" src="assets/images/Portfolio/thumb-<?php echo $name;?>" alt="<?php echo $larg_img_alt[$i];?>">
+						<img class="myImg img-rounded" data-id="<?php echo $i;?>" data-largimage="assets/images/Portfolio/<?php echo $name;?>" loading="lazy"   id="myimage<?php echo $i;?>" src="assets/images/Portfolio/thumb-<?php echo $name;?>" alt="<?php echo $larg_img_alt[$i];?>" width="1156" height="779"> 
 						</div>
 					</div>
 					 <?php
