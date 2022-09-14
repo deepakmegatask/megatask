@@ -23,9 +23,10 @@
 <meta property="og:title" content="<?php echo (isset($meta_title))?$meta_title:'Web Design &  Development Company | Digital Marketing Agency Delhi | Megatask Technologies'; ?>">
 
 <meta property="og:description" content="<?php echo (isset($meta_description))?$meta_description:'Megatask Technology is the fastest-growing IT company in Delhi, India that offers an extended array of services including Website Design & Development, Mobile App Development, MLM Software, and Digital Marketing Services for the enterprise.'; ?>">
+
 <meta property="og:url" content="https://megatasktechnologies.com/">
 <meta property="og:image" content="https://megatasktechnologies.com/assets/images/megatask-technologies.jpg">
-<meta property="og:site_name" content="Megatask Technologies Pvt. Ltd. " />
+<meta property="og:site_name" content="Website Design Company in Delhi - Megatask Technologies" />
 <?php
 		/*<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content=" Web Design & Development Company | Digital Marketing Agency Delhi | Megatask Technologies ">
@@ -35,6 +36,14 @@
 <meta name="twitter:creator" content="@megatasktech">*/
 ?>
 <meta name="google-site-verification" content="adKuUJbW1cm-RHGG-juLOMsF-QldCA7_5PiyssJM9Y0" />
+
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="twitter:site" content="<?php echo (isset($twitter_site))?$twitter_site: 'Best Website Design Company in Delhi - Megatask Technologies'?>">
+
+<meta name="twitter:title" content="<?php echo (isset($twitter_title))?$twitter_title:'Website Design Company in Delhi - Megatask Technologies'?>">
+
+<meta name="twitter:description" content="<?php echo (isset($twitter_description))?$twitter_description:'We Megatask Technologies are the fastest-growing Website Design Company in Delhi Ncr. That offers an extended array of services for grow your buisness faster.'?>">
 
 <meta name="twitter:creator" content="@megatasktech">
 <meta name="twitter:image:src" content="https://megatasktechnologies.com/assets/images/logo.png">

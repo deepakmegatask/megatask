@@ -3,7 +3,55 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "Megatask Technologies",
+"url": "https://megatasktechnologies.com/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Shoaib",
+"reviewBody": "Best Website Development",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4.5"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "Megatask Technologies",
+"priceRange": "$ 10 Web Design Cost",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
 
+</script>
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type": "EmployerAggregateRating",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name" : "Best Website Design Company in Delhi",
+        "sameAs" : "https://megatasktechnologies.com/about-us"
+      },
+      "ratingValue": "98",
+      "bestRating": "99",
+      "worstRating": "1",
+      "ratingCount" : "190560"
+    }
+    </script>
 
 
 

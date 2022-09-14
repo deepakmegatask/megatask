@@ -46,16 +46,19 @@ class Index extends CI_Controller
 
         $data = array();
 
-        $data["title"] = "Web Design Company, Digital Marketing Agency";
+        $data["title"] = "About Us - Megatask Technologies";
         $data["meta_title"] = $data["title"];
-        $data["meta_description"] = "Megatask Technologies is best IT service provider Company in India since a decade. We are armed with some of the best graphic designers and developers, creative content writers and whole team of digital marketing.";
+        $data["meta_description"] = "We Megatask Technologies are the best fastest-growing ✓Website Design Company in Delhi. That offers an extended array of services for grow your buisness faster.";
 
         $data["meta_keyword"] = "Website Design Company in Delhi, ✓Web Designig, website design company in delhi, web designing company in delhi, web design company, website design agency in delhi.";
-        
+
         $data["file"] = "public/about-us";
 
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["canonical"] = "https://megatasktechnologies.com/about-us";
+        $data["alternate"] = "https://megatasktechnologies.com/about-us";
+        $data["twitter_site"] = "Megatask Technologies - About Us"
+        $data["twitter_title"] = "Megatask Technologies - About Us";
+        $data["twitter_description"] = "Find the best website design deals, ✓Website design ✓graphic design ✓seo services";
 
         $this
             ->load
