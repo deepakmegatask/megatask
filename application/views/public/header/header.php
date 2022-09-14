@@ -1,26 +1,18 @@
- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"  lang="en-in" >
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-<meta http-equiv="content-language" content="en-in">
-
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1">
-
-
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title lang="en-in"><?php echo (isset($title))?$title:'megataskweb.com'; ?></title>
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1">
+
 <meta name="keywords" content="<?php echo (isset($meta_keyword))?$meta_keyword:'Website Design Company Delhi, Web Development Company, Digital Marketing Agency, SEO Services Delhi, Graphic Design Agency Delhi, Mobile App Development Company, Social Media Marketing Company, Web Design & Development Company, Ecommerce Company Delhi, Ecommerce Website Company'; ?>"/>
 <meta name="description" content="<?php echo (isset($meta_description))?$meta_description:'Megatask Technology is the fastest-growing IT company in Delhi, India that offers an extended array of services including Website Design & Development, Mobile App Development, MLM Software, and Digital Marketing Services for the enterprise.'; ?>" />
 <meta name="robots" content="<?php echo (isset($meta_robot))?$meta_robot:'index,follow'; ?>" />
 <meta name="author" content="megatasktechnologies.com" />
-<meta name="copyright" content="&copy; 2018" />
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="copyright" content="&copy; 2022" />
 
 <meta name="p:domain_verify" content="633077d8d04e16efec6c70c02dbdd4d2"/>
 <!-- Open Graph -->
@@ -50,20 +42,104 @@
 	$this->load->helper('url');
 	$currentURL = current_url();
 ?>
-<link rel="canonical" href="<?php echo $currentURL;?>">
+<link rel="canonical" href="<?php echo $canonical;?>">
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-US" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-AE" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="de-DE" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="es-ES" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="fr-FR" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="pt-BR" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-GB" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-CA" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-MY" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-SG" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-NG" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-ID" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-IE" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-AU" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-IN" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-NZ" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-PH" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="en-ZA" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="es-MX" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="es-CO" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="es-PE" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="es-AR" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="es-CL" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="es-VE" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="pt-PT" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="fr-CA" />
+<link rel="alternate" href="<?php echo $alternate ?>" hreflang="fr-BE" />
+
 <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/build.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <script defer src="<?php echo base_url();?>assets/src/js/jQuery-v3.5.1.js"> </script>
 <script defer src="<?php echo base_url();?>assets/src/js/jquery-3.5.1.min.js"> </script>
 <script defer src="<?php echo base_url();?>assets/src/js/bootstrap.min.js"> </script> 
 <link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/animate.css">
 <link rel="stylesheet" href="<?php echo base_url();?>assets/src/css/megatask-animation.css">
-<link rel="icon" href="<?php echo base_url();?>assets/images/favicon.png" sizes="32x32" />
-<link rel="icon" href="<?php echo base_url();?>assets/images/favicon.png" sizes="192x192" />
-<meta  content="<?php echo base_url();?>assets/images/favicon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="<?php echo base_url();?>assets/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="<?php echo base_url();?>assets/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url();?>assets/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="<?php echo base_url();?>assets/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url();?>assets/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="<?php echo base_url();?>assets/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="<?php echo base_url();?>assets/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="<?php echo base_url();?>assets/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="<?php echo base_url();?>assets/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="<?php echo base_url();?>assets/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url();?>assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="<?php echo base_url();?>assets/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url();?>assets/images/favicon-16x16.png">
+<link rel="manifest" href="<?php echo base_url();?>assets/images/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+
+<script  defer type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Megatask Technologies Pvt Ltd | Website Design & Development Company",
+  "image": "",
+  "@id": "",
+  "url": "https://megatasktechnologies.com/",
+  "telephone": "011 42032023",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+    "addressLocality": "New Delhi",
+    "postalCode": "110025",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.5547758,
+    "longitude": 77.2965637
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/Megatasktechnology",
+    "https://twitter.com/megatasktech",
+    "https://www.instagram.com/megatasktechnologies",
+    "https://www.youtube.com/channel/UCI-TtTxlPXLRRUBTcsFf4FQ",
+    "https://www.linkedin.com/company/megatasktechnologies",
+    "https://in.pinterest.com/megatasktech"
+  ] 
+}
+</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload"  href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
