@@ -5,9 +5,7 @@
          <ul class="list-style Service-li text-white">
           <li class="modify-head pb-4 mb-4"><strong>About Company</strong></li>
           <li class="footer-text wow bounceInUp ">
-            <li>
               Megatask Technologies Pvt Ltd is the best IT company in Delhi that offers an extended array of services including Website Design, Mobile App development, MLM software and Digital Marketing Services for the enterprise.
-            </li>
           </li>
         </ul>
            
@@ -62,7 +60,7 @@
     <div class="row">
       <div class="col-md-4"></div>
       <div class="col-md-4">
-         < <ul class="foother-social wow bounceInUp">              
+          <ul class="foother-social wow bounceInUp">              
                <li class="facebook"><a href="https://www.facebook.com/MegaTaskTechnology" target="_blank" class="social_link"><i class="fa social_dot fa-facebook-official" aria-hidden="true"></i></a></li>
                <li class="linkdin"><a href="https://www.linkedin.com/company/megatasktechnologies" target="_blank" class="social_link"><i class="fa social_dot fa-linkedin" aria-hidden="true"></i></a></li>
                <li class="instagram"><a href="https://www.instagram.com/megatasktechnologies/" target="_blank" class="social_link"><i class="fa social_dot fa-instagram" aria-hidden="true"></i></a></li>
@@ -105,11 +103,11 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Request Quote</h5>
+        <h5 class="modal-title">Request Quote</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
       </div>
       <div class="modal-body">
-        <form name="myform" id="myform" method="post" action="">
+        <form name="myform" id="myform" method="post" action="#">
           <div class="form-group">
             <input type="text" class="form-control" name="name" id="name" placeholder="Enter name" required /> </div>
           <div class="form-group">
