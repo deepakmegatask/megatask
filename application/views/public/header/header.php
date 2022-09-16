@@ -71,9 +71,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/build.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/jQuery-v3.5.1.js"> </script>
-<script defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/jquery-3.5.1.min.js"> </script>
-<script defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/bootstrap.min.js"> </script> 
+<script src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/jQuery-v3.5.1.js"> </script> <!-- we should have remove defer -->
+<script src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/jquery-3.5.1.min.js"> </script>
+<script src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/bootstrap.min.js"> </script> 
 <link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/animate.css">
 <link rel="stylesheet" href="https://h7p2w6k8.stackpathcdn.com/assets/src/css/megatask-animation.css">
 <link rel="apple-touch-icon" sizes="57x57" href="https://h7p2w6k8.stackpathcdn.com/assets/images/apple-icon-57x57.png">
@@ -91,7 +91,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="https://h7p2w6k8.stackpathcdn.com/assets/images/favicon-16x16.png">
 <link rel="manifest" href="https://h7p2w6k8.stackpathcdn.com/assets/images/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -124,7 +124,7 @@
 }
 }
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -139,7 +139,7 @@
       "ratingCount" : "190561"
     }
     </script>
-<script  defer type="application/ld+json">
+<script>
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
@@ -184,7 +184,7 @@
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload"  href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet"  href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap">
 <link rel="flaticon" href="https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/js/flat-ui.min.js">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-73E5V19P68"></script>
@@ -209,7 +209,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'G-RRL2XVM0R9');
 </script>
 <script rel="preload"  id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a0303315-ef47-4d79-b4fb-bc71f579c6cd"> </script>
+<style>
+  img.slider-image {
+    width: 100%;
+    background-size: cover;
+}
+section.homepage-banner img {
+    max-height: 590px;
+}
+.row.bottom-img img {
+    width: 100%;
+}
+.uptodate-process {
+    background: #361a68;
+    padding: 35px 0;
+    height: auto;
+}
+ .col-md-12.text-center.p-2 {
+    font-size: 10px;
+    color: #616e8375;
+</style>
 </head>
 <body>
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMDRHFT"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+

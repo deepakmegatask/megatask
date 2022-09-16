@@ -1,51 +1,29 @@
 
-<style type="text/css">
-  img.slider-image {
-    width: 100%;
-    background-size: cover;
-}
-section.homepage-banner img {
-    max-height: 590px;
-}
-.row.bottom-img img {
-    width: 100%;
-}
-.uptodate-process {
-    background: #361a68;
-    padding: 35px 0;
-    height: auto;
-}
-</style>
-<section class="homepage-banner">
-   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development-company.jpg" alt="web app development" title="web app development" class="slider-image" width="1663" height="590"></a>
-</section>
+
+<div class="homepage-banner">
+   <a href="<?php echo base_url();?>contact-us"><img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/web-app-development-company.jpg" alt="web app development" title="web app development" class="slider-image"></a>
+</div>
 <div class="clearfix"></div>
-<section>
   <div class="container-fluid we-are-contain">
     <div class="row pt-3 pb-5">
       <div class="col-sm-6 we-are-prof-img"> </div>
       <div class="col-sm-6 ">
         <div class="hum-professional">
-          <div id="">
             <div class="hum-professional-para title_lead">
               <h2 class="text-left">We Are Expert in Cutting <strong class="lead">Edge Technology</strong></h2>
               <p class="text-justify"> At Megatask Technologies, our purpose is very simple to code & deliver your vision.  we began with a small team to develop basic websites. Today we still design and develop websites for people who start small - as well as for enterprises and tech giants of different industries and more. Our team constantly monitors the emergence of new technologies that we are not afraid to implement in websites. We create only selling websites – this is an achievement by drawing the design and working out usability. The approach to each new project is individual, we treat every customer equally, regardless of the size of the company and its budget. We also hold a good hand in <a href="<?php echo base_url();?>digital-marketing">Digital Marketing</a>, having worked with eminent techniques like SEO, PPC, SMO, Email Marketing. and content writing. Our three main services of Web Design & Development, Digital Marketing and Search Engine Optimisation are all delivered using efficient processes to promote easily and reach our customer’s objectives. By using our processes we ensure that the best work are done by all experts which leads to the end product always being of the best quality. </p>
             </div>
-          </div>
         </div>
       </div>
     </div>
   </div>
-</section>
 <div class="clearfix"></div>
-<section>
   <div class="container-fluid">
     
     <div class="row bottom-img">
       <img src="https://h7p2w6k8.stackpathcdn.com/assets/images/slider/megatask-services.jpg" alt="Megatask Services" title="Megatask Services" width="1663" height="463">
     </div>
   </div>
-</section>
 <div class="our-services-section">
   <div class="container-fluid">
     <div class="row website-design-row">
@@ -70,7 +48,7 @@ section.homepage-banner img {
               <p>Present your concept to your online buyers with the right Web Development Company. Will take care of your website needs Get Free Quote Now for your website project!</p>
             </div>
             <div class="sr-button">
-              <a href="<?php echo base_url();?>web-development" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Read More.</a>
+              <a href="<?php echo base_url();?>web-development" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Read More.</a>
             </div>
           </div>
         </div>
@@ -88,7 +66,7 @@ section.homepage-banner img {
               <p>Reach out to more people, increase awareness, and grow your followers, sales and traffic from social channels. Invest in Social Media Now!</p>
             </div>
             <div class="sr-button">
-              <a href="<?php echo base_url();?>digital-marketing" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Read More.</a>
+              <a href="<?php echo base_url();?>digital-marketing" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Read More.</a>
             </div>
           </div>
         </div>
@@ -106,7 +84,7 @@ section.homepage-banner img {
               <p>Whether it is a website, business or brand, all are nothing without creativity and art! Graphic design is an integral part of any business.</p>
             </div>
             <div class="sr-button">
-              <a href="<?php echo base_url();?>graphic-design" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Read More.</a>
+              <a href="<?php echo base_url();?>graphic-design" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Read More.</a>
             </div>
           </div>
         </div>
@@ -124,7 +102,7 @@ section.homepage-banner img {
               <p>When we redesign your website, our primary goal is to improve your bottom line. Your new site will get you more traffic, leads, increase revenue. </p>
             </div>
             <div class="sr-button">
-              <a href="<?php echo base_url();?>maintenance-website" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Read More.</a>
+              <a href="<?php echo base_url();?>maintenance-website" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Read More.</a>
             </div>
           </div>
         </div>
@@ -136,7 +114,7 @@ section.homepage-banner img {
 </div>
 
 
-<section class="pt-5 pb-5 website-design-contain">
+<div class="pt-5 pb-5 website-design-contain">
   <div class="container min-width-cont">
     <div class="row BannerOpenGraph101">
       <div class=" col-sm-12 ">
@@ -162,13 +140,13 @@ section.homepage-banner img {
 				}
 			?>
           </div>
-          <br><div class="sr-button"> <a href="<?php echo base_url();?>portfolio" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Read More.</a> </div>
+          <br><div class="sr-button"> <a href="<?php echo base_url();?>portfolio" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Read More.</a> </div>
         </div>
       </div>
     </div>
   </div>
-</section>
-<section class="pt-3 pb-3 uptodate-process">
+</div>
+<div class="pt-3 pb-3 uptodate-process">
   <div class="container">
     <div class="row">
       <div class="col-sm-12 ">
@@ -184,10 +162,10 @@ section.homepage-banner img {
       </div>
     </div>
   </div>
-</section>
+</div>
 
 <div id="myModal" class="modal"> 
-    <img class="modal-content" id="img01">
+    <img src="#" class="modal-content" id="img01" alt="image">
 
 </div>
 <script>
@@ -220,7 +198,7 @@ var span = document.getElementsByClassName("close")[0];
 
 }*/
 </script>
-<script type="text/javascript">
+<script>
 $('.carousel').carousel({
   interval: 3000
 })

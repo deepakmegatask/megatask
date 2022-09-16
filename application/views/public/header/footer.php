@@ -1,10 +1,5 @@
 
-<style type="text/css">
-  .col-md-12.text-center.p-2 {
-    font-size: 10px;
-    color: #616e8375;
-}
-</style>
+
 
 <!-- <div class="icon-bar">
   <a href="https://wa.me/9871652511" target="_blank" class="whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a> 
@@ -13,7 +8,7 @@
 <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-cbb444e6-fde8-4468-9d69-5ee9a6815490"></div> -->
 <!-- End Here-->
-<section class="vc-footer-bg">
+<div class="vc-footer-bg">
   <div class="container-fluid">
     <!-- <div style="position: absolute;left: 68px;margin-top: 350px;"> <a href="https://wa.me/9871652511" class="fixBtnWhatsapp" target="_blank">
           <img src="<?php echo base_url()?>assets/images/whatsapp.png" style="width: 50px;" alt="whatsapp">
@@ -21,11 +16,11 @@
     <div class="row pt-5">
       <div class="col-md-3">
          <ul class="list-style Service-li text-white">
-          <p class="modify-head pb-4 mb-4"><strong>About Company</strong></p>
-          <p class="footer-text wow bounceInUp ">
-            <p>
+          <li class="modify-head pb-4 mb-4"><strong>About Company</strong></li>
+          <li class="footer-text wow bounceInUp ">
+            <li>
               Megatask Technologies Pvt Ltd is the best IT company in Delhi that offers an extended array of services including Website Design, Mobile App development, MLM software and Digital Marketing Services for the enterprise.
-            </p>
+            </li>
             <!-- <i class="fa fa-map-signs" aria-hidden="true"></i> 
             OFFICE (INDIA )   
                <br>D-21 (Second Floor) Lane No.3, 
@@ -51,14 +46,15 @@
           <li class="dd_footer  wow bounceInUp">
             <a href="mailto:info@megatasktechnologies.com"> <i class="fa fa-envelope" aria-hidden="true"></i> info@megatasktechnologies.com</a>
           </li>
-          <li class="dd_footer  wow bounceInUp "> <span><i class="fa fa-share-alt" aria-hidden="true"></i> Follow Us</span> </li>
-        </ul> -->
+          <li class="dd_footer  wow bounceInUp "> <span><i class="fa fa-share-alt" aria-hidden="true"></i> Follow Us</span>  -->
+          </li>
+        </ul>
            
           
       </div>
       <div class="col-md-3">
         <ul class="list-style Service-li text-white">
-          <p class="modify-head  pb-4 mb-4"><strong>Services</strong></p>
+          <li class="modify-head  pb-4 mb-4"><strong>Services</strong></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>digital-marketing"><i class="fa fa-angle-double-right"></i>&nbsp;Digital Marketing</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>ecommerce"><i class="fa fa-angle-double-right"></i>&nbsp;Ecommerce Website</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>website-redesign"><i class="fa fa-angle-double-right"></i>&nbsp;Website Redesign</a></li>
@@ -70,7 +66,7 @@
       </div>
       <div class="col-md-3">
         <ul class="list-style Service-li text-white">
-          <p class="modify-head  pb-4 mb-4"><strong>USEFUL LINKS</strong></p>
+          <li class="modify-head  pb-4 mb-4"><strong>USEFUL LINKS</strong></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>"><i class="fa fa-angle-double-right"></i>&nbsp;Home</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>about-us"><i class="fa fa-angle-double-right"></i>&nbsp;About Us</a></li>
           <li class="dd_footer"><a href="<?php echo base_url();?>our-team"><i class="fa fa-angle-double-right"></i>&nbsp;Our Team</a></li>
@@ -82,33 +78,18 @@
       </div>
       <div class="col-md-3">
         <ul class="list-style Service-li text-white">
-          <p class="modify-head  pb-4 mb-4"><strong>Contact Us</strong></p>
+          <li class="modify-head pb-4 mb-4"><strong>Contact Us</strong></li>
            <i class="fa fa-map-signs" aria-hidden="true"></i> 
-            OFFICE   
-               <br>D-21 (Second Floor) Lane No.3, 
+           OFFICE
+           <li> 
+               D-21 (Second Floor) Lane No.3, 
               Abul Fazal Enclave-Part 1, 
-              Jamia Nagar, New Delhi-110025
-            </p> 
-
-          <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:01142032023"><i class="fa fa-phone-square" aria-hidden="true"></i> 011 42032023</a></li> -->
+              Jamia Nagar, New Delhi-110025 
+            </li>
           <li class="dd_footer  wow bounceInUp"> <a href="tel:9871652511"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9871652511</a></li>
-        <!--  <li class="dd_footer  wow bounceInUp"> <a href="tel:+919990185786"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9990185786</a></li> --> 
-      
-
-           <!-- <hr style="border-top: 1px solid #fff;">
-          <p class="footer-text wow bounceInUp ">
-            <i class="fa fa-map-signs" aria-hidden="true"></i> 
-            OFFICE (Dubai )  
-            <br>The exchange tower,
-              <br>Business Bay, Dubai
-            </p>  -->
-             
-            <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:+971545871570"><i class="fa fa-phone-square" aria-hidden="true"></i> (+971)-54-587-1570</a></li> -->
-          <!-- <hr style="border-top: 1px solid #fff;"> -->
           <li class="dd_footer  wow bounceInUp">
             <a href="mailto:info@megatasktechnologies.com"> <i class="fa fa-envelope" aria-hidden="true"></i> info@megatasktechnologies.com</a>
           </li>
-         <!--  <li class="dd_footer  wow bounceInUp "> <span><i class="fa fa-share-alt" aria-hidden="true"></i> Follow Us</span> </li>  -->
         </ul> 
            
       </div>
@@ -131,8 +112,8 @@
       <div class="col-md-4"></div>
     </div>
   </div>
-</section>
-<section class="copyright-bg">
+</div>
+<div class="copyright-bg">
   <div class="container">
     <div class="row ">
       <div class="col-md-6 text-left">
@@ -143,16 +124,16 @@
       </div>
     </div>
   </div>
-</section>
+</div>
 
-<section class="copyright-bg">
+<div class="copyright-bg">
   <div class="container">
     <div class="row ">
       <div class="col-md-12 text-center p-2">
       <div itemscope itemtype=http://schema.org/Product><span itemprop=brand><?php echo $companyname?></span> <span itemprop=name><?php echo $authname?></span> <span itemprop=description><?php echo $footdesc?></span>&nbsp;Product #: <span itemprop=mpn><?php echo $mpnnumber?>&nbsp;&nbsp;</span> <span itemprop=aggregateRating itemscope itemtype=http://schema.org/AggregateRating><span itemprop=ratingValue><?php echo $ratingvalue?></span> stars, based on <span itemprop=reviewCount><?php echo $mpnnumber?></span> &nbsp;Reviews</span></div></div>
     </div>
   </div>
-</section> 
+</div> 
 
 
 
@@ -220,11 +201,11 @@
     <div class="bubble x20"></div>-->
 </div>
     <!--// modal-->
-    <script  defer src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/wow.js"> </script>
-     <script  defer>
+    <script src="https://h7p2w6k8.stackpathcdn.com/assets/src/js/wow.js"> </script>
+     <script>
               new WOW().init();
               </script>
-    <script  defer type="text/javascript">
+    <script>
       // Cookie Functions ====================================================
       function setCookie(e,t,n){var i="";if(n){var o=new Date;o.setTime(o.getTime()+24*n*60*60*1e3),i="; expires="+o.toUTCString()}document.cookie=e+"="+(t||"")+i+"; path=/"}function getCookie(e){for(var t=e+"=",n=document.cookie.split(";"),i=0;i<n.length;i++){for(var o=n[i];" "==o.charAt(0);)o=o.substring(1,o.length);if(0==o.indexOf(t))return o.substring(t.length,o.length)}return null}
       // end cookie functions 
@@ -313,7 +294,7 @@
     </script>
 	
 	
-	<script  defer type="application/ld+json">
+	<script>
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
