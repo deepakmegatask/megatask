@@ -1,6 +1,6 @@
 
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -34,7 +34,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -121,6 +121,19 @@
     </div>
     <!--Team Row Starts-->
     <div class="row">
+      <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?= base_url()?>assets/images/team/team-3.jpg" alt="Sajjad Hussain">
+                </div>
+                <div class="team-content">
+                    <div class="team-info">
+                        <h3 class="title">Sajjad Hussain</h3>
+                        <span class="post"><kbd><kbd>Web Developer</kbd></kbd></span>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
                   <div class="pic">
@@ -134,32 +147,8 @@
                 </div> 
             </div>
         </div> 
-        <div class="col-md-3 col-sm-6">
-            <div class="our-team">
-                <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/Daniyaz.jpg" alt="Mohd Daniyaz Ali ">
-                </div>
-                <div class="team-content">
-                    <div class="team-info">
-                        <h3 class="title">Mohd Daniyaz Ali</h3>
-                        <span class="post"><kbd><kbd>Web Developer</kbd></kbd></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="our-team">
-                <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/team-3.jpg" alt="Sajjad Hussain">
-                </div>
-                <div class="team-content">
-                    <div class="team-info">
-                        <h3 class="title">Sajjad Hussain</h3>
-                        <span class="post"><kbd><kbd>Web Developer</kbd></kbd></span>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
+        
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
                 <div class="pic">
@@ -186,8 +175,21 @@
                 </div>
             </div>
         </div>
-    </div>
-
+    
+    <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?= base_url()?>assets/images/team/Daniyaz.jpg" alt="Mohd Daniyaz Ali ">
+                </div>
+                <div class="team-content">
+                    <div class="team-info">
+                        <h3 class="title">Mohd Daniyaz Ali</h3>
+                        <span class="post"><kbd><kbd>Web Developer</kbd></kbd></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
     <div class="row ">
       <div class=" col-sm-12">
         <div class="title_lead pl-4 pr-4">
