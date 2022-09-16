@@ -1,18 +1,5 @@
-
-
-
-<!-- <div class="icon-bar">
-  <a href="https://wa.me/9871652511" target="_blank" class="whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a> 
-</div> -->
-<!--Whatsapp Chat Icon -->
-<!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-cbb444e6-fde8-4468-9d69-5ee9a6815490"></div> -->
-<!-- End Here-->
 <div class="vc-footer-bg">
   <div class="container-fluid">
-    <!-- <div style="position: absolute;left: 68px;margin-top: 350px;"> <a href="https://wa.me/9871652511" class="fixBtnWhatsapp" target="_blank">
-          <img src="<?php echo base_url()?>assets/images/whatsapp.png" style="width: 50px;" alt="whatsapp">
-        </a> </div> -->
     <div class="row pt-5">
       <div class="col-md-3">
          <ul class="list-style Service-li text-white">
@@ -21,32 +8,6 @@
             <li>
               Megatask Technologies Pvt Ltd is the best IT company in Delhi that offers an extended array of services including Website Design, Mobile App development, MLM software and Digital Marketing Services for the enterprise.
             </li>
-            <!-- <i class="fa fa-map-signs" aria-hidden="true"></i> 
-            OFFICE (INDIA )   
-               <br>D-21 (Second Floor) Lane No.3, 
-              <br>Abul Fazal Enclave-Part 1, 
-              <br>Jamia Nagar, New Delhi-110025
-            </p> -->
-
-          <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:01142032023"><i class="fa fa-phone-square" aria-hidden="true"></i> 011 42032023</a></li>
-          <li class="dd_footer  wow bounceInUp"> <a href="tel:9871652511"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9871652511</a></li>
-		  <li class="dd_footer  wow bounceInUp"> <a href="tel:+919990185786"><i class="fa fa-phone-square" aria-hidden="true"></i> +91-9990185786</a></li> -->
-		  
-
-          <!-- <hr style="border-top: 1px solid #fff;">
-          <p class="footer-text wow bounceInUp ">
-            <i class="fa fa-map-signs" aria-hidden="true"></i> 
-            OFFICE (Dubai )  
-            <br>The exchange tower,
-              <br>Business Bay, Dubai
-            </p> -->
-             
-          <!-- <li class="dd_footer  wow bounceInUp"> <a href="tel:+971545871570"><i class="fa fa-phone-square" aria-hidden="true"></i> (+971)-54-587-1570</a></li>
-          <hr style="border-top: 1px solid #fff;">
-          <li class="dd_footer  wow bounceInUp">
-            <a href="mailto:info@megatasktechnologies.com"> <i class="fa fa-envelope" aria-hidden="true"></i> info@megatasktechnologies.com</a>
-          </li>
-          <li class="dd_footer  wow bounceInUp "> <span><i class="fa fa-share-alt" aria-hidden="true"></i> Follow Us</span>  -->
           </li>
         </ul>
            
@@ -79,8 +40,10 @@
       <div class="col-md-3">
         <ul class="list-style Service-li text-white">
           <li class="modify-head pb-4 mb-4"><strong>Contact Us</strong></li>
+          <li>
            <i class="fa fa-map-signs" aria-hidden="true"></i> 
            OFFICE
+         </li>
            <li> 
                D-21 (Second Floor) Lane No.3, 
               Abul Fazal Enclave-Part 1, 
