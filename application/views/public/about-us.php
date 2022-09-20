@@ -305,7 +305,7 @@ function toggleIcon(e) {
     $(e.target).prev('.panel-heading').find(".more-less").toggleClass('fa fa-minus');
 }
 </script>
-<script type="text/javascript">
+<script>
 $(document).ready(function() {
     $("#testimonial-slider").owlCarousel({
         items: 2,

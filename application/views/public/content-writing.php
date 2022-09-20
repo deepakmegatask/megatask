@@ -168,7 +168,7 @@
     </div>
   </div>
 </section>
-<section class="pt-5 pb-5 perfect-seo implement-seo">
+<div class="pt-5 pb-5 perfect-seo implement-seo">
   <div class="container">
     <div class="row pt-5 pb-5">
       <div class=" col-sm-6 ">
@@ -241,7 +241,7 @@
       </div>
     </div>
   </div>
-</section>
+</div>
 <section class="pt-5 pb-5 implement-seo">
   <div class="container">
     <div class="row">

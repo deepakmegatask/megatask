@@ -8,7 +8,7 @@
 "author": "Amit",
 "reviewBody": "Website Design Company in Delhi",
 "reviewRating": {
-"@type": "Rating"
+"@type": "Rating",
 "ratingValue": "1"
 },
 "itemReviewed": {
