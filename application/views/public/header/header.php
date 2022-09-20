@@ -27,7 +27,6 @@
 <meta name="twitter:image:src" content="https://megatasktechnologies.com/assets/images/logo.png">
 <meta name="distribution" content="global" />
 <meta name="expires" content="never">
-<meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <meta name="yahooSeeker" content="index, follow" />
 <meta name="msnbot" content="index, follow" />
@@ -91,7 +90,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="https://h7p2w6k8.stackpathcdn.com/assets/images/favicon-16x16.png">
 <link rel="manifest" href="https://h7p2w6k8.stackpathcdn.com/assets/images/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<script>
+<script type="application/ld+json">
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -124,7 +123,7 @@
 }
 }
 </script>
-<script>
+<script type="application/ld+json">
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -139,7 +138,7 @@
       "ratingCount" : "190561"
     }
     </script>
-<script>
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
