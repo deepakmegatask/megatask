@@ -232,6 +232,9 @@ section.homepage-banner img {
   .ecom-img-section, .ecom-img-section img {
     padding-left: 80px;
 }
+.title_lead {
+    margin-top: 20px;
+}
 @media only screen and (max-width: 767px) {
   .row.bottom-img img {
     height: 100%;
