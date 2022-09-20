@@ -789,8 +789,14 @@ class Index extends CI_Controller
 		$data["meta_title"] = $data["title"];
         $data["meta_description"] = " Megatask Technologies is a Software Development Company in Delhi. We assist you with professional scalable software solutions for enterprises and startups.";
         $data["meta_keyword"] = "software application development company, software development company in delhi, software development company in delhi, software developer company in delhi, software development company delhi, top software development company in delhi, best software development company in delhi, software development services in delhi, best software development company in delhi ncr, software development company in delhi ncr, software development in noida, software development company in gurgaon, custom software development company";
-        $data["canonical"] = "https://megatasktechnologies.com/";
-        $data["alternate"] = "https://megatasktechnologies.com/";
+        $data["canonical"] = base_url()."software-development";
+        $data["alternate"] = base_url()."software-development";
+
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Mujammil Abbas";
+        $data["footdesc"] = "Software Development Services in Delhi";
+        $data["mpnnumber"] = "2895";
+        $data["ratingvalue"] = "4.6";
 		
         $data["file"] = "public/software-development";
         $this
