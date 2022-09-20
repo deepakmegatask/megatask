@@ -1,24 +1,65 @@
+<script>
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "Mega Tasktechnologies",
+"url": "https://megatasktechnologies.com/software-development/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Amit",
+"reviewBody": "Best Software Development",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "Best Software Development",
+"priceRange": "$ 50 Software Development Cost",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
+
+</script>
+<script>
+    {
+      "@context" : "https://schema.org/",
+      "@type": "EmployerAggregateRating",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name" : "Software Development Company in Delhi",
+        "sameAs" : "https://megatasktechnologies.com/software-development"
+      },
+      "ratingValue": "98",
+      "bestRating": "100",
+      "worstRating": "1",
+      "ratingCount" : "190561"
+    }
+    </script>
 <section class="">
-  <!--ecommerce home banner start-->
   <div class="container-fluid digital-marketing-banner">
     <div class="container-fluid ">
       <div class="container">
-
-
-
         <div class="row">
           <div class="col-sm-6">
             <div class="pt-5">
               <h2 class="wordH text-center text-white"></h2> </div>
           </div>
-        
           <div class="col-sm-6 ppc-img-section text-center pt-5">
             <img src="<?= base_url('assets/images/soft-banner.gif')?>" alt="Software Development" class="bounce-1" style="border-radius: 100px 100px 100px 100px;">
           </div>
         </div> 
-
-
-
       </div>
     </div>
   </div>
@@ -39,14 +80,11 @@
            <!-- <h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s"></h1>  -->
           <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">Megatask Web offers a wide range of customized software development services worldwide; we are a professional software development company based in Delhi. We have outstanding experience in custom software development and database development, database development, desktop, and distributed application design as well as various custom software components and internet-project programming.</p>
           <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">We meet the expense of our clients subsequent to the involve tailor-made software solutions that will meet their specific situation requirements. Our team of experienced and in the surgically removed from ahead software developers will join application rotate at the forefront when your descent of business.</p>
-
-
-    
       </div>
     </div>
   </div>
+</div>
 </section>
-
 <section class="pt-5 pb-5 implement-seo ">
   <div class="container">
     <div class="row">
@@ -57,8 +95,6 @@
       </div>
     </div>
     <div class="row BannerOpenGraph101">
-
-
       <div class="col-sm-6 wow fadeInUp ">
         <div class="graf-column-wrap">
           <div class="widget-wrap text-center">
@@ -73,13 +109,9 @@
             <!-- <h6><a href="<?= base_url()?>">Research & Analysis</a></h6> --> </div>
         </div>
       </div>
-       
-      
     </div>
   </div>
 </section>
-
-
 <section class="pt-5 pb-5 implement-seo website-ppc-contain">
   <div class="container">
     <div class="row BannerOpenGraph101">
@@ -100,12 +132,6 @@
     </div>
   </div>
 </section>
-
-
-
-
-
-
 <section class="pt-5 pb-5 implement-seo website-ppc-contain">
   <div class="container">
     <div class="row BannerOpenGraph101">
@@ -126,62 +152,25 @@
     </div>
   </div>
 </section>
-
-
-
-
-
-
 <section class="pt-5 pb-5 implement-seo">
   <div class="container">
     <div class="row">
-
-
-
       <div class=" col-sm-6 software-mockup"> <img src="<?=base_url()?>assets/images/software-development.jpg" alt="Software" hidden class="img-rounded"/>
       </div>
-
-
       <div class=" col-sm-6 ">
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
            <h2 class="text-left "><strong class="lead">WHY HIRE US FOR SOFTWARE DEVELOPMENT IN DELHI?</strong></h2>
-
-
-          <!-- <h3 class="text-left  text-white wow fadeInUp " data-wow-delay=".20s">WHY HIRE US FOR SOFTWARE DEVELOPMENT IN DUBAI?</h3> -->
-
-
-
           <p class="text-left  text-white wow fadeInUp  " data-wow-delay=".25s">
             
             The development of reliable and worthwhile software cannot be fulfilled without inviting the knowledge, qualification, and experience of the software developers. We know this need and hired a multitasking team of software developers, who can support the demand of abundant clients qualitatively. Being the fastest growing software development company in Delhi, INDIA we use the latest and innovative tools and techniques to ensure a polished piece every time. We always try to keep satisfying our customers by delivering the best software, which is executing flawlessly and catering to the client’s expectations.
-
-
           </p>
-
-
-
           <p class="text-left  text-white wow fadeInUp  " data-wow-delay=".25s">
             
             We are happy to say that we have been serving several industries past our existence. Our customers appreciate our facilities as this assists them in enhancing their productivity even if declining costs. Besides, our facilities are right of access to unexplored domains as dexterously. Concisely, whatever industries you are serving, you can reach out through email or over the phone to get served by us.
 
 
           </p>
-
-
-
-
-
-
-          
-
-
-
-
            </div>
-
-
-
-
            <div class="contactExperts wow rotateInUpLeft pt-3" data-wow-delay=".40s" style="visibility: visible; animation-delay: 0.4s; animation-name: rotateInUpLeft;">
                      <div class="images "> <span>
 
@@ -198,33 +187,10 @@
                   </span> </div>
                      <div class="content text-left text-white">Need help? <a class="text-white" href="<?php echo base_url()?>contact-us"><u>Contact our experts</u></a> Tell us about your project </div>
                   </div>
-
-
-
-
-
-
-
       </div>
-
-
     </div>
-
-
-   
-
-
   </div>
 </section>
-
-
-
-
-
-
-
-
-
 <section class="pt-5 pb-5 website-ppc-contain implement-seo">
   <div class="container">
     <div class="row pt-5 pb-5">
@@ -236,9 +202,6 @@
           <p class="text-left  wow fadeInUp  " data-wow-delay=".25s">Software is a type of program, which enables an adherent to put on some specific task bearing in mind peripheral devices as regards a computer system, Android phones, iPad, etc. It acts as a mediator between computer hardware and users. No software can design and manage seamlessly without the interference of software designers.</p>
         </div>
       </div>
-
-
-
       <div class=" col-sm-6 wow fadeInUp bounceLeft-101 " data-wow-delay=".30s">
         <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
           <div class="fly-image">
@@ -246,37 +209,9 @@
           </div>
         </div>
       </div>
-
-
     </div>
   </div>
 </section>
-
-
-
-
-
-
-
-<!-- <section class="pt-5 pb-5 bg-light-gray">
-  <div class="container">
-    <div class="row BannerOpenGraph101">
-      <div class=" col-sm-6 ">
-        <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
-          <h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
-          <h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Your Business Is Our Responsibility</h3>
-          <p class="text-justify wow fadeInUp">Our experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
-          <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Contact Us Now</a> </div>
-      </div>
-      <div class=" col-sm-6" data-wow-delay=".30s">
-        <div class="ecom-img-section"> <img src="<?= base_url()?>assets/images/seo-1.gif" alt="Your Business Is Our Responsibility" class="img-rounded lazy"> </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-
-
-
 <script>
 var words = ['Need a Software for your business?', 'Need a Software for your device?', 'We at Megatask Web, deliver what our client demands.'],
   part,

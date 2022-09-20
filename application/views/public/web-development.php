@@ -1,5 +1,5 @@
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -33,7 +33,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -65,7 +65,7 @@
       </div>
    </div>
 </section>
-<section class="pt-5 pb-5 implement-seo website-design-contain">
+<div class="pt-5 pb-5 implement-seo website-design-contain">
    <div class="container ">
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 wow bounceInLeft ">
@@ -98,7 +98,7 @@
          </div>
       </div>
    </div>
-</section>
+</div>
 <section class="mt-3 mb-3 pt-5 pb-5 implement-seo">
    <div class="container">
       <div class="row">

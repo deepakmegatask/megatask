@@ -1,29 +1,70 @@
+<script>
+{
+"@context": "https://schema.org",
+"@type": "Review",
+"name": "MegaTask Technologies",
+"url": "https://megatasktechnologies.com/portfolio/",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"author": "Amit",
+"reviewBody": "Website Design Company in Delhi",
+"reviewRating": {
+"@type": "Rating"
+"ratingValue": "1"
+},
+"itemReviewed": {
+"@type": "LocalBusiness",
+"name": "MegaTask Technologies",
+"priceRange": "$ 10 Web Design Cost",
+"image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "D-21 (Second Floor) Lane No.3, Abul Fazal Enclave-Part 1, Jamia Nagar",
+"addressLocality": "New Delhi",
+"addressRegion": "New Delhi",
+"postalCode": "110025",
+"telephone": "+91-9871652511",
+"addressCountry": {
+"@type": "Country",
+"name": "India"
+}
+}
+}
+}
+
+</script>
+<script>
+  {
+    "@context" : "https://schema.org/",
+    "@type": "EmployerAggregateRating",
+    "itemReviewed": {
+      "@type": "Organization",
+      "name" : "Megatask Technologies",
+      "sameAs" : "https://megatasktechnologies.com/portfolio"
+    },
+    "ratingValue": "97",
+    "bestRating": "99",
+    "worstRating": "1",
+    "ratingCount" : "19062"
+  }
+</script>
+
 <section class="">
-  <!--ecommerce home banner start-->
   <div class="container-fluid digital-marketing-banner">
     <div class="container-fluid ">
       <div class="container">
-
-
-
         <div class="row">
           <div class="col-sm-6">
             <div class="pt-5">
               <h2 class="wordH"></h2> </div>
           </div>
-        
           <div class="col-sm-6 ppc-img-section text-center pt-5">
             <img src="<?= base_url('assets/images/portfolio.webp')?>" alt="Megatask Web Software Development" class="bounce-1" style="width: 100%;">
           </div>
         </div> 
-
-
-
       </div>
     </div>
   </div>
 </section>
-
 <section class="pt-5 pb-5 website-design-contain">
   <div class="container min-width-cont">
     <div class="row BannerOpenGraph101">
@@ -51,31 +92,14 @@
 			?>
           </div>
           <br>
-          <div class="sr-button"> <a href="<?php echo base_url();?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Request a Quote</a> </div>
+          <div class="sr-button"> <a href="<?php echo base_url();?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Request a Quote</a> </div>
         </div>
       </div>
     </div>
   </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="myModal" class="modal"> 
-    <img class="modal-content" id="img01">
+    <img src="#" class="modal-content" id="img01" alt="image error">
 
 </div>
 <script>
@@ -134,34 +158,6 @@ $(window).scroll(function() {
   if(scroll >= 2000) sticky.addClass('active-seo');
   else sticky.removeClass('active-seo');
 });
-
- /*
-  function multple_image()
-                {
-					
-                    var idd = 'multiple-image';
-                     
-                    var html_content = '';
-					
-					var larg_img = ['make-in-india.webp','dubai-stone-capital.webp','ecommerce-zovics.webp','spreader-techno.webp','snack-lafun.webp','food-packaging.webp'];
-					var larg_img_alt = ['Make In India','Dubai Stone Capital','E-commerce Zovics','Driver Updater','Snack Lafun','Food Packaging'];
-
-					 
-
-                    for (let i = 0; i < larg_img.length; i++) 
-                    {
-						 
-						var name = larg_img[i];
-                    var html_content = html_content + '<div class="col-md-4 p-img">';
-                    var html_content= html_content + '<div class="Scriptcontent">';
-                    var html_content= html_content + '<img class="myImg img-rounded" data-id="'+i+'" data-largimage="assets/images/Portfolio/'+name+'" loading="lazy"   id="myimage'+i+'" src="assets/images/Portfolio/thumb-'+name+'" alt="'+larg_img_alt[i]+'">';
-                     var html_content= html_content + '</div></div>';
-
-                    }
-
-                    $("#"+idd).html(html_content);
-                         
-                }*/
 
     $( document ).ready(function() {
 

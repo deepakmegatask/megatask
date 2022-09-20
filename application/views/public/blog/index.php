@@ -29,7 +29,9 @@
         .pad{
             padding: 10px;
         }
-        
+        .ecom-img-section, .ecom-img-section img {
+            padding-left: 0 !important;
+        }
 </style>
 
 <section class="">

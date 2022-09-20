@@ -1,5 +1,5 @@
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -33,7 +33,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -141,7 +141,7 @@
                </div>
             </div>
             <div class="row">
-               <div class="col-sm-12 pt-5"> <a href="<?php base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote" type="submit">View More Info</a> </div>
+               <div class="col-sm-12 pt-5"> <a href="<?php base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote">View More Info</a> </div>
             </div>
          </div>
       </div>
@@ -178,7 +178,7 @@
                <div class="col-sm-4">
                   <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                      <div class="fly-image">
-                        <p class="text-center  "> <img src="<?=base_url()?>assets/images/ps.png" alt="Photoshop" class="bounce-1"   alt="Online Graphic Design agency in noida"/> </p>
+                        <p class="text-center  "> <img src="<?=base_url()?>assets/images/ps.png" class="bounce-1"   alt="Online Graphic Design agency in noida"/> </p>
                      </div>
                   </div>
                </div>
@@ -246,7 +246,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon1.svg" class="opacity-1"  alt="Graphic Design agency in delhi"> </div>
                               <div class="image-box-content">
                                  <h3 class="image-box-title text-white">Who We Are?</h3>
-                                 <p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -260,7 +260,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg"  alt="Graphic Design company in delhi" class="opacity-1"> </div>
                               <div class="image-box-content">
                                  <h3 class="image-box-title">What We Do?</h3>
-                                 <p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -276,7 +276,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon3.svg" class="opacity-1"  alt="Graphic Design agency"> </div>
                               <div class="image-box-content">
                                  <h3 class="image-box-title">Who We Help?</h3>
-                                 <p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -290,7 +290,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" class="opacity-1"  alt="Graphic Design Company"> </div>
                               <div class="image-box-content">
                                  <h3 class="image-box-title">What Is Next ?</h3>
-                                 <p class="image-box-description">We empower companies with content marketing that works </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description">We empower companies with content marketing that works </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -311,7 +311,7 @@
                <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong>Our Expert is Here to Guide You</strong> </p>
                <h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Hire Graphic Designer And Improve Your Brand</h3>
                <p class="text-justify wow fadeInUp" >Want to get help from someone to handle your day-to-day graphic design needs? Hire graphic designers in India from Megatask Technologies who will fill the gap of creative experts to boost your marketing and branding strategies. Our designers will help you get the right look and feel for your brand</p>
-               <!--<p>Best Graphic Design Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Contact Now</a> </div>
+               <!--<p>Best Graphic Design Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Contact Now</a> </div>
          </div>
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">

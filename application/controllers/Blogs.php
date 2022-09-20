@@ -136,6 +136,20 @@ class Blogs extends CI_Controller
 
         $data['list_blogs'] = $this->blog_model->get_blogs($config["per_page"], $page);
 
+        $data["canonical"] = base_url()."blog";
+        $data["alternate"] = base_url()."blog";
+
+        $data["twitter_site"] = "";
+        $data["twitter_title"] = "";
+        $data["twitter_description"] = "";
+
+        //footer
+        $data["companyname"] = "";
+        $data["authname"] = "";
+        $data["footdesc"] = "";
+        $data["mpnnumber"] = "";
+        $data["ratingvalue"] = "";
+
        /*pagination start end*/
 
 
@@ -186,6 +200,19 @@ $data["blogs_details"]= $returnData;
        $data["meta_keyword"]=$returnData->meta_keyword;
        $data["meta_description"]=$returnData->meta_description;
        $data["meta_robot"]=$returnData->meta_robot;
+       $data["canonical"] = base_url().$slugs;
+        $data["alternate"] = base_url().$slugs;
+
+        $data["twitter_site"] = "";
+        $data["twitter_title"] = "";
+        $data["twitter_description"] = "";
+
+        //footer
+        $data["companyname"] = "";
+        $data["authname"] = "";
+        $data["footdesc"] = "";
+        $data["mpnnumber"] = "";
+        $data["ratingvalue"] = "";
 
 
        $data["file"]="public/blog/details";

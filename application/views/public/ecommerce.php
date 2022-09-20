@@ -1,4 +1,4 @@
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -32,7 +32,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -70,12 +70,8 @@
 <section class="pt-3 pb-5 implement-seo website-design-contain">
 	<div class="container">
 				
-		<div class="ecommercebanner">
-	            <ul class="breadcrumbs d-flex flex-wrap align-items-center">
-	                <li><a href="<?php echo base_url()?>">Home ></a></li>
-	                <li>Services ></li>
-					<li>Ecommerce</li>
-	            </ul>
+		<div class="ecommercebanner pt-4">
+	            
 		</div>
 	
 		<div class="row BannerOpenGraph101">
@@ -91,7 +87,7 @@
 					<!--<h3 class="text-left"><strong class="lead">Best E-Commerce Company</strong></h3>-->
 					<h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">eCommerce Website Development Company Delhi
  </h1>
-					<p class="text-justify wow fadeInUp  " data-wow-delay=".25s"> Ecommerce refers to the buying and selling of products or services using the electronic systems such as the computer networks and the internet. In the present times it is very much imperative for businesses to have an ecommerce website so that they can reach out to their potential customers more effectively. At Megatask Technologies we strive hard to make sure that your online store is set up and managed in the most affable manners and at the most cost effective rates, which makes us the most sought after E-commerce web Development company in Delhi NCR. We develop ecommerce websites with the best features and functionality while at the same time being extremely customizable. Our professionals have already worked on numerous ecommerce projects and make it a point that while on one hand the online shopping becomes a rich exalted experience for the customers on the other hand it is easy for the businesses to manage their online stores. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote wow fadeInUp" data-wow-delay=".30s" type="submit">Contact Us</a> </div>
+					<p class="text-justify wow fadeInUp  " data-wow-delay=".25s"> Ecommerce refers to the buying and selling of products or services using the electronic systems such as the computer networks and the internet. In the present times it is very much imperative for businesses to have an ecommerce website so that they can reach out to their potential customers more effectively. At Megatask Technologies we strive hard to make sure that your online store is set up and managed in the most affable manners and at the most cost effective rates, which makes us the most sought after E-commerce web Development company in Delhi NCR. We develop ecommerce websites with the best features and functionality while at the same time being extremely customizable. Our professionals have already worked on numerous ecommerce projects and make it a point that while on one hand the online shopping becomes a rich exalted experience for the customers on the other hand it is easy for the businesses to manage their online stores. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote wow fadeInUp" data-wow-delay=".30s">Contact Us</a> </div>
 			</div>
 		</div>
 	</div>
@@ -112,17 +108,17 @@
 		<div class="row">
 			<div class="col-xs-12" id="myDIV">
 				<ul class="wow bounceInLeft nav nav-tabs process-model more-icon-preocess" role="tablist">
-					<li role="presentation" class="listitem active" aria-controls="Analysis" role="tab" data-toggle="tab" aria-expanded="true">
+					<li role="presentation" class="listitem active" aria-controls="Analysis" data-toggle="tab">
 						<a href="#Analysis" aria-controls="Analysis" role="tab" data-toggle="tab" aria-expanded="true"> <span class="icon-magnifier"><i class="fa fa-search" aria-hidden="true"></i>                     </span>
 							<p class="text-center text-white">Analysis</p>
 						</a>
 					</li>
-					<li role="presentation" class="listitem" aria-controls="Sessions" role="tab" data-toggle="tab" aria-expanded="false">
+					<li role="presentation" class="listitem" aria-controls="Sessions" data-toggle="tab">
 						<a href="#Sessions" aria-controls="Sessions" role="tab" data-toggle="tab" aria-expanded="false"> <span class="icon-vector"><i class="fa fa-anchor" aria-hidden="true"></i>                     </span>
 							<p class="text-center text-white">Sessions</p>
 						</a>
 					</li>
-					<li role="presentation" class="listitem" aria-controls="SKU" role="tab" data-toggle="tab" aria-expanded="false">
+					<li role="presentation" class="listitem" aria-controls="SKU" data-toggle="tab">
 						<a href="#SKU" aria-controls="SKU" role="tab" data-toggle="tab" aria-expanded="false"> <span class="icon-pencil3"><i class="fa fa-pencil-square" aria-hidden="true"></i>                     </span>
 							<p class="text-center text-white">SKU</p>
 						</a>
@@ -208,6 +204,8 @@
 			</div>
 		</div>
 	</div>
+</div>
+</div>
 </section>
 <section class="pt-4 pb-4 ">
 	<div class="container">
@@ -226,7 +224,7 @@
 	<div class="container">
 		<div id="page">
 			<div id="content">
-				<div class="vertical-flip-container flip-container floatR" ontouchstart="this.classList.toggle('hover');">
+				<div class="vertical-flip-container flip-container floatR">
 					<div class="flipper">
 						<div class="front">
 							<div class="row">
@@ -369,6 +367,53 @@
 		</div>
 	</div>
 </section>
-<script>
-// Add active class to the current button (highlight it)   $('.listitem').click(function(e) {           e.preventDefault();           $('.listitem').removeClass('active');           $(this).addClass('active');       });   var words = ['Ecomerce Agency.','A Ecomerce Increase Brand.'],       part,       i = 0,       offset = 0,       len = words.length,       forwards = true,       skip_count = 0,       skip_delay = 15,       speed = 70;   var wordflick = function () {     setInterval(function () {       if (forwards) {         if (offset >= words[i].length) {           ++skip_count;           if (skip_count == skip_delay) {             forwards = false;             skip_count = 0;           }         }       }       else {         if (offset == 0) {           forwards = true;           i++;           offset = 0;           if (i >= len) {             i = 0;           }         }       }       part = words[i].substr(0, offset);       if (skip_count == 0) {         if (forwards) {           offset++;         }         else {           offset--;         }       }       $('.wordH').text(part);     },speed);   };      $(document).ready(function () {     wordflick();   });
+<script> 
+//Add active class to the current button(highlight it) 
+$('.listitem').click(function(e) {
+	e.preventDefault();
+	$('.listitem').removeClass('active');
+	$(this).addClass('active');
+});
+var words = ['Ecomerce Agency.', 'A Ecomerce Increase Brand.'],
+	part, i = 0,
+	offset = 0,
+	len = words.length,
+	forwards = true,
+	skip_count = 0,
+	skip_delay = 15,
+	speed = 70;
+var wordflick = function() {
+	setInterval(function() {
+		if(forwards) {
+			if(offset >= words[i].length) {
+				++skip_count;
+				if(skip_count == skip_delay) {
+					forwards = false;
+					skip_count = 0;
+				}
+			}
+		} else {
+			if(offset == 0) {
+				forwards = true;
+				i++;
+				offset = 0;
+				if(i >= len) {
+					i = 0;
+				}
+			}
+		}
+		part = words[i].substr(0, offset);
+		if(skip_count == 0) {
+			if(forwards) {
+				offset++;
+			} else {
+				offset--;
+			}
+		}
+		$('.wordH').text(part);
+	}, speed);
+};
+$(document).ready(function() {
+	wordflick();
+}); 
 </script>

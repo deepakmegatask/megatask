@@ -1,5 +1,5 @@
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -7,7 +7,7 @@
 "url": "https://megatasktechnologies.com/maintenance-website/",
 "image": "https://h7p2w6k8.stackpathcdn.com/assets/images/logo.png",
 "author": "Amit",
-"reviewBody": "Website Designing Company in Delhi, 
+"reviewBody": "Website Designing Company in Delhi", 
 "reviewRating": {
 "@type": "Rating",
 "ratingValue": "1"
@@ -33,7 +33,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -77,7 +77,7 @@
 			<div class=" col-sm-6 ">
 				<div class="title_lead mb-5" data-wow-delay=".20s">
 					<h1 class="text-dark  text-left bounceInRight" data-wow-delay=".40s">Website Maintenance Services</h1>
-					<p class="text-dark  text-justify wow bounceInRight" data-wow-delay=".40s">We Are Up To Date at Keeping the Website Services Which is Why We Provide Our Clients With Fast Acting, Experienced And Approachable Website Maintenance Services. We will take care of your website needs so that you can concentrate on your core responsibility; running your business. Our support service is offered at affordable rates. Dont pay high amounts to third-party companies for urgent requirements or performance improvement. Give our maintenance needs, and we will come out with the best plan that suits your pockets. It is flexible and affordable. Website maintenance includes a rainbow of tasks. One of the tasks associated with this service is updating the content. It is a proven fact that visitors like to read or encounter fresh inform</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" type="submit" data-wow-delay=".50s">Contact Us Now</a> </div>
+					<p class="text-dark  text-justify wow bounceInRight" data-wow-delay=".40s">We Are Up To Date at Keeping the Website Services Which is Why We Provide Our Clients With Fast Acting, Experienced And Approachable Website Maintenance Services. We will take care of your website needs so that you can concentrate on your core responsibility; running your business. Our support service is offered at affordable rates. Dont pay high amounts to third-party companies for urgent requirements or performance improvement. Give our maintenance needs, and we will come out with the best plan that suits your pockets. It is flexible and affordable. Website maintenance includes a rainbow of tasks. One of the tasks associated with this service is updating the content. It is a proven fact that visitors like to read or encounter fresh inform</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" data-wow-delay=".50s">Contact Us Now</a> </div>
 				<div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
 					<div class="images "> <span>
 					<img class="rounded-circle text-left" width="50" height="50"  src="<?=base_url()?>assets/images/Oval-Copy-17.jpg" alt="Online Website Maintenance Service in delhi" >
@@ -129,7 +129,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-sm-12 pt-5"> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote" type="submit">View More Info</a> </div>
+					<div class="col-sm-12 pt-5"> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote">View More Info</a> </div>
 				</div>
 			</div>
 		</div>
@@ -142,7 +142,7 @@
 				<div class="title_lead pl-4 pr-4">
 					<!--<h3 class="text-left  wow fadeInLeft " data-wow-delay=".20s" ><strong class="lead">Best Website Maintinance Agency</strong></h3>-->
 					<h2 class="text-left  text-left wow bounceInLeft  " data-wow-delay=".25s">Before Website Maintenance You Need Know, Why Need Website Maintenance ?</h2>
-					<p class="text-justify wow bounceInLeft  " data-wow-delay=".30s">If Website Maintenance is weak of any businesse’s then business will never sustain either you invest sufficient money in that business. But we have two choice of marketing, i.e. Offline and Online. Offline is more expensive and not work effectively. That’s why our expert support you Website Maintinance .</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote   wow bounceInLeft " data-wow-delay=".50s" type="submit">Contact Us</a> </div>
+					<p class="text-justify wow bounceInLeft  " data-wow-delay=".30s">If Website Maintenance is weak of any businesse’s then business will never sustain either you invest sufficient money in that business. But we have two choice of marketing, i.e. Offline and Online. Offline is more expensive and not work effectively. That’s why our expert support you Website Maintinance .</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote   wow bounceInLeft " data-wow-delay=".50s">Contact Us</a> </div>
 			</div>
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
@@ -176,7 +176,7 @@
 										<div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon1.svg" alt="Who We Are?" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h2 class="image-box-title text-white">Who We Are?</h2>
-											<p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -188,7 +188,7 @@
 										<div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" alt="What We Do?" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h2 class="image-box-title">What We Do?</h2>
-											<p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -202,7 +202,7 @@
 										<div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon3.svg" alt="Who We Help" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h2 class="image-box-title">Who We Help?</h2>
-											<p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -214,7 +214,7 @@
 										<div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" alt="What Is Next ?" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h2 class="image-box-title">What Is Next?</h2>
-											<p class="image-box-description">We empower companies with content marketing that works </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description">We empower companies with content marketing that works </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -233,7 +233,7 @@
 					<h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
 					<h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Your Business Is Our Responsibility</h3>
 					<p class="text-justify wow fadeInUp">Our experts consider Website Maintinence to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Website Maintinence is also known as Internet Marketing.</p>
-					<!--<p>Best Website Maintinence  Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Ask Now</a> </div>
+					<!--<p>Best Website Maintinence  Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Ask Now</a> </div>
 			</div>
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">

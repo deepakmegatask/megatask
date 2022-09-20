@@ -1,5 +1,5 @@
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -33,7 +33,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -94,7 +94,7 @@
 				<div class="title_lead pl-4 pr-4">
 					<!--<h3 class="text-left  wow fadeInLeft " data-wow-delay=".20s" ><strong class="lead">Best Web Designing Agency </strong></h3>-->
 					<h3 class="text-left wow bounceInLeft  " data-wow-delay=".25s">Before Web Designing You Need Know, What Is Web Designing on Shopify ?</h3>
-					<p class="text-justify wow bounceInLeft mr-5 " data-wow-delay=".30s">Shopify offers a few different monthly and annual pricing plans to pick from which you can see here. This page breaks down what's included with each plan, as well as their respective rates/fees. I highly recommend going with the $29 "Basic Shopify" plan to start if this is your first attempt at ecommerce, since you can easily upgrade at any time, once you start getting some sales.</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote   wow bounceInLeft  " data-wow-delay=".50s" type="submit">Contact Us</a> </div>
+					<p class="text-justify wow bounceInLeft mr-5 " data-wow-delay=".30s">Shopify offers a few different monthly and annual pricing plans to pick from which you can see here. This page breaks down what's included with each plan, as well as their respective rates/fees. I highly recommend going with the $29 "Basic Shopify" plan to start if this is your first attempt at ecommerce, since you can easily upgrade at any time, once you start getting some sales.</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote   wow bounceInLeft  " data-wow-delay=".50s">Contact Us</a> </div>
 			</div>
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">
@@ -111,7 +111,7 @@
 		<div class="row">
 			<div class="text-center col-sm-12">
 				<h2 class="leter-space-3 text-white">Make Your Business Online &  Effective On Users.</h2>
-				<p class="text-white">Find the best solutions for your business! We are the leading <strong><a href="https://megatasktechnologies.com/maintenance-website">Website Maintenance Services</a><strong> that matches all your requirement What You Want. . </p>
+				<p class="text-white">Find the best solutions for your business! We are the leading <strong><a href="https://megatasktechnologies.com/maintenance-website">Website Maintenance Services</a></strong> that matches all your requirement What You Want. . </p>
 			</div>
 		</div>
 	</div>
@@ -144,7 +144,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-sm-12 pt-5"> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote" type="submit">View More Info</a> </div>
+					<div class="col-sm-12 pt-5"> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote">View More Info</a> </div>
 				</div>
 			</div>
 		</div>
@@ -172,7 +172,7 @@
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon1.svg" alt="Online Website Redesign In India" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h3 class="image-box-title text-white">Who We Are?</h3>
-											<p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -184,7 +184,7 @@
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon2.svg" alt="Online Shopify Website design In India" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h3 class="image-box-title">What We Do?</h3>
-											<p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -198,7 +198,7 @@
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon3.svg" alt="Online Shopify Design In India" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h3 class="image-box-title">Who We Help?</h3>
-											<p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -210,7 +210,7 @@
 										<div class="image-box-img"> <img src="<?php base_url()?>assets/images/icon/icon2.svg" alt="Online Shopify Website Redesign In noida" class="opacity-1"> </div>
 										<div class="image-box-content">
 											<h3 class="image-box-title">What Is Next ?</h3>
-											<p class="image-box-description">We empower companies with content marketing that works </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
+											<p class="image-box-description">We empower companies with content marketing that works </p> <a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>                                 Get Started</a> </div>
 									</div>
 								</div>
 							</div>
@@ -229,7 +229,7 @@
 					<h3><strong class="lead">Our Expert is Here to Guide You</strong></h3>
 					<h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Your Business Is Our Responsibility</h3>
 					<p class="text-justify wow fadeInUp" style="font-weight:500">Our experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
-					<a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Ask Now</a> </div>
+					<a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Ask Now</a> </div>
 			</div>
 			<div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
 				<div class="title_lead wow fadeInUp " data-wow-delay=".20s">

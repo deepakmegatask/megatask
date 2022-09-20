@@ -187,7 +187,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Happy-Customers-wht.png" alt="Happy Customers" class="opacity-1"> </div>
                     <div class="image-box-content">
-                    <p  style="font-size:2rem"class="image-box-title">845+</p>
+                    <p style="font-size:2rem" class="image-box-title">845+</p>
                       <p class="image-box-description">Happy Customers</p>
                     </div>
                   </div>
@@ -198,9 +198,9 @@
               <div class="inner-container-tag bg-theme-white">
                 <div class="widget-wrap">
                   <div class="image-box-wrapper">
-                    <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" class="Happy Customers" class="opacity-1"> </div>
+                    <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" class="Happy Customers opacity-1" alt="image error"> </div>
                     <div class="image-box-content">
-                      <p  style="font-size:2rem"class="image-box-title">378+</p>
+                      <p  style="font-size:2rem" class="image-box-title">378+</p>
                       <p class="image-box-description">Project Done</p>
                     </div>
                   </div>
@@ -215,7 +215,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Team Members" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <p  style="font-size:2rem"class="image-box-title">634+</p>
+                      <p  style="font-size:2rem" class="image-box-title">634+</p>
                       
                       <p class="image-box-description">Team Members</p>
                     </div>
@@ -229,7 +229,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Global Presence" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <p  style="font-size:2rem"class="image-box-title">947+</p>
+                      <p  style="font-size:2rem" class="image-box-title">947+</p>
                       <p class="image-box-description">Global Presence</p>
                     </div>
                   </div>

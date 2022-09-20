@@ -228,6 +228,15 @@ section.homepage-banner img {
  .col-md-12.text-center.p-2 {
     font-size: 10px;
     color: #616e8375;
+  }
+  .ecom-img-section, .ecom-img-section img {
+    padding-left: 80px;
+}
+@media only screen and (max-width: 767px) {
+  .row.bottom-img img {
+    height: 100%;
+}
+}
 </style>
 </head>
 <body>

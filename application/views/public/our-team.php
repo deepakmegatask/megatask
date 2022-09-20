@@ -1,5 +1,3 @@
-
-
 <script>
 {
 "@context": "https://schema.org",
@@ -49,25 +47,21 @@
       "ratingCount" : "19051"
     }
     </script>
-
-
-
-<section class="">
   <!--ecommerce home banner start-->
-  <div class="container-fluid  ">
-    <div class="container-fluid   ">
+  <div class="container-fluid ">
+    <div class="container-fluid">
       <div class="container">
-        <div class="row  pt-3 pb-3  ">
+        <div class="row  pt-3 pb-3">
           <div class="col-sm-6">
             <div class="pt-5">
-              <h2 class="wordH text-center  font-big"></h2> </div>
+              <h2 class="wordH text-center font-big"></h2>
+            </div>
           </div>
           <div class="col-sm-6 ecom-img-section text-center"> <img class="abot-img" src="<?= base_url()?>assets/images/about-us-1.gif" alt="About-Us"> </div>
         </div>
       </div>
     </div>
   </div>
-</section>
 <section class="pt-5 pb-5 website-design-contain">
   <div class="container">
     <div class="row ">
@@ -226,7 +220,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
                 <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/Ashu Kumar.jpg" alt="Ashu Kumar">
+                    <img src="<?= base_url()?>assets/images/team/AshuKumar.jpg" alt="Ashu Kumar">
                 </div>
                 <div class="team-content">
                     <div class="team-info">
@@ -301,7 +295,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
                 <div class="pic">
-                    <img src="<?= base_url()?>assets/images/team/Ashu Kumar.jpg" alt="Ashu Kumar">
+                    <img src="<?= base_url()?>assets/images/team/AshuKumar.jpg" alt="Ashu Kumar">
                 </div>
                 <div class="team-content">
                     <div class="team-info">

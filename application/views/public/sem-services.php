@@ -1,5 +1,5 @@
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -33,7 +33,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -70,7 +70,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-md-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5"> <img class="text-center pull-right semservice" src="<?=base_url()?>assets/images/sem-1.gif" class="bounce-1" alt="SEM Services" /> </div>
+               <div class="something-imagin-bg mt-5"> <img class="text-center pull-right semservice bounce-1" src="<?=base_url()?>assets/images/sem-1.gif" alt="SEM Services" /> </div>
             </div>
          </div>
          <div class=" col-md-6 ">
@@ -170,7 +170,7 @@
                </div>
             </div>
             <div class="row">
-               <div class="col-md-12 pt-5"> <a href="<?php base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote" type="submit">View More Info</a> </div>
+               <div class="col-md-12 pt-5"> <a href="<?php base_url()?>contact-us" class="btn btn-outline-success my-2 my-sm-0 get_quote">View More Info</a> </div>
             </div>
          </div>
       </div>
@@ -181,7 +181,7 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-md-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img class="text-center" src="<?=base_url()?>assets/images/sem-work-image-img.svg" alt="Search Engine Marketing Process" class="bounce-1 img-rounded" /> </div>
+               <div class="something-imagin-bg mt-5 "> <img src="<?=base_url()?>assets/images/sem-work-image-img.svg" alt="Search Engine Marketing Process" class="bounce-1 img-rounded text-center"/> </div>
             </div>
          </div>
          <div class=" col-md-6 ">
@@ -321,7 +321,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon1.svg" alt="Who We Are?" class="opacity-1"> </div>
                               <div class="image-box-content">
                                  <h2 class="image-box-title text-white">Who We Are?</h2>
-                                 <p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -335,7 +335,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" alt="What We Do?" class="opacity-1"> </div>
                               <div class="image-box-content">
                                  <h2 class="image-box-title">What We Do?</h2>
-                                 <p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -351,7 +351,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon3.svg" alt="Who We Help?" class="opacity-1"> </div>
                               <div class="image-box-content">
                                  <h2 class="image-box-title">Who We Help?</h2>
-                                 <p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -365,7 +365,7 @@
                               <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" alt="What Is Next ?" class="opacity-1"> </div>
                               <div class="image-box-content">
                                  <h2 class="image-box-title">What Is Next ?</h2>
-                                 <p class="image-box-description">We empower companies with content marketing that works </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
+                                 <p class="image-box-description">We empower companies with content marketing that works </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote "><i class="fa fa-play-circle" aria-hidden="true"></i>
 
                                  Get Started</a> </div>
                            </div>
@@ -386,12 +386,12 @@
                <h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
                <h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">Your Business Is Our Responsibility</h3>
                <p class="text-justify wow fadeInUp">Our experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing Digital marketing is also known as Internet Marketing.</p>
-               <!--<p>Best Digital Marketing Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Ask Now</a> </div>
+               <!--<p>Best Digital Marketing Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Ask Now</a> </div>
          </div>
          <div class=" col-md-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/Human magnet MG animation.gif" alt="Search Engine Marketing" class="bounce-1" /> </p>
+                  <p class="text-center"> <img src="<?=base_url()?>assets/images/HumanmagnetMGanimation.gif" alt="Search Engine Marketing" class="bounce-1" /> </p>
                </div>
             </div>
          </div>

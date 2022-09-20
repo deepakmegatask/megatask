@@ -1,5 +1,5 @@
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -33,7 +33,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -178,7 +178,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Happy-Customers-wht.png" alt="Happy Customers" class="opacity-1" > </div>
                     <div class="image-box-content">
-                      <p  style="font-size:2rem"class="image-box-title">845+</p>
+                      <p  style="font-size:2rem" class="image-box-title">845+</p>
                       <p class="image-box-description">Happy Customers</p>
                     </div>
                   </div>
@@ -206,7 +206,7 @@
                   <div class="image-box-wrapper">
                     <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/int-Project.png" alt="Team Members" class="opacity-1"> </div>
                     <div class="image-box-content">
-                      <p style="font-size:2rem"class="image-box-title">634+</p>
+                      <p style="font-size:2rem" class="image-box-title">634+</p>
                       <p class="image-box-description">Team Members</p>
                     </div>
                   </div>
@@ -235,7 +235,7 @@
 <section class="pt-5 pb-5 implement-seo">
   <div class="container">
     <div class="row">
-      <div class=" col-sm-12 seo-mockup seo-mockup-mg active-seo"> <img src="<?=base_url()?>assets/images/digi-marktng-dashboard.png" alt="SEO Analyze" hidden class="img-rounded" class="img-fluid"/> </div>
+      <div class=" col-sm-12 seo-mockup seo-mockup-mg active-seo"> <img src="<?=base_url()?>assets/images/digi-marktng-dashboard.png" alt="SEO Analyze" hidden class="img-rounded img-fluid"/> </div>
     </div>
     <div class="row">
       <div class=" col-sm-12 ">

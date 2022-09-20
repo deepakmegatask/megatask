@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-<script type="application/ld+json">
+<script>
 {
 "@context": "https://schema.org",
 "@type": "Review",
@@ -37,7 +37,7 @@
 }
 
 </script>
-<script type="application/ld+json">
+<script>
     {
       "@context" : "https://schema.org/",
       "@type": "EmployerAggregateRating",
@@ -217,8 +217,6 @@
             <div class=" col-sm-12">
                 <div class="title_lead pl-4 pr-4">
                     <h3 class="testimonial-heading">Testimonial</h3>
-
-               </h3>
                     <h4 class="text-center text-white wow fadeInUp leter-space-3" data-wow-delay=".20s">know about us from our clients</h4> </div>
             </div>
         </div>
@@ -254,8 +252,8 @@
         </div>
     </div>
 </section>
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
 <script>
 var words = ["About Megatask Technologies Pvt Ltd", "We'd Love to Hear from You"],
     part,

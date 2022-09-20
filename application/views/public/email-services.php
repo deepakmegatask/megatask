@@ -19,43 +19,16 @@
       <div class="row BannerOpenGraph101">
          <div class=" col-sm-6 wow bounceInLeft ">
             <div class="title_lead  bounceLeft-101" data-wow-delay=".20s">
-               <div class="something-imagin-bg mt-5 "> <img class="text-center pull-right" src="<?=base_url()?>assets/images/otzc5mx2xbrmuhwvba8e.gif" alt="What Is Email Marketing?" class="bounce-1" />
-                  <!-- <img src="<?= base_url('assets/images/ppc-1.gif')?>" class="text-center pull-right "  style="width:100%"  > --></div>
+               <div class="something-imagin-bg mt-5 "> <img class="text-center pull-right bounce-1" src="<?=base_url()?>assets/images/otzc5mx2xbrmuhwvba8e.gif" alt="What Is Email Marketing?"/>
+                  </div>
             </div>
          </div>
          <div class=" col-sm-6 ">
             <div class="title_lead mb-5" data-wow-delay=".20s">
                <p class="text-left wow bounceInRight" data-wow-delay=".30s"> <strong>What Is Email Marketing?</strong> </p>
                <h2 class="text-dark  text-left wow bounceInRight" data-wow-delay=".40s">Evolution of brand the best Email Marketing Services in Delhi</h2>
-               <!-- <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote text-dark   wow bounceInRight" type="submit" data-wow-delay=".50s">Get Started</a> --></div>
+               </div>
             <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
-               <!--  <div class="images "  >
-
-                  <span>
-
-                  <img class="rounded-circle text-left" width="50" height="50"  src="<?=base_url()?>assets/images/Oval-Copy-17.jpg" alt="How does email marketing work?
-">
-
-                  </span>
-
-                  <span>
-
-                  <img  class="rounded-circle" width="50" height="50"  src="<?=base_url()?>assets/images/Oval-Copy-59.jpg"  alt="img">
-
-                  </span>
-
-                  <span>
-
-                  <img  class="rounded-circle" width="50" height="50" src="<?=base_url()?>assets/images/Oval-Copy-30.jpg"   alt="img">
-
-                  </span>
-
-               </div> -->
-               <!--  <div class="content text-left text-dark">Need help? <a class="text-dark" href="#"><u>Contact our experts</u></a>
-
-                  Tell us about your project
-
-               </div> -->
                <div class="content text-justify text-dark">
                   <p> Megatask Technoloeis is a boutique email marketing services in delhi that provides custom email newsletter and email campaign management for businesses of all sizes. The team of experts with over years of industry experience easily make ideas into high-converting campaigns. When it comes to generating and converting leads, there isn’t a more powerful digital marketing tactic than email marketing. Studies show that despite the growth and prominence of mobile messengers and chat applications, nearly 61 percent of consumers prefer facilitated brand interactions via email – and this preference extends across genders and age groups. The widespread usage and increasing global relevance of email make email marketing more critical than ever before. </p>
                   <div class="contactExperts wow rotateInUpLeft pt-3" data-wow-delay=".40s">
@@ -91,24 +64,6 @@
                <h3 class="text-left  wow fadeInLeft " data-wow-delay=".20s"><strong class="lead">How to  do it?</strong></h3>
                <h1 class="text-left  text-left wow bounceInLeft  " data-wow-delay=".25s">What Do Email Marketing Agencies Offer?</h1>
                <p class="text-justify wow bounceInLeft  " data-wow-delay=".30s"> Email marketing Agency can range from a monthly newsletter to a sophisticated and engaging workflow targeting different types of potential customers. Some agencies are specialized in one area of email marketing, while others can incorporate all important approaches into an effective strategy that will get you the best results while also saving you time and money. Megatask technologies PVT LTD offers a diverse range of email marketing services designed to fit your brand needs, financial capabilities and ideal market segments. Schedule a consultation with our email marketing agency and let’s discuss the importance of email marketing in achieving your goals. </p>
-          
-		  <!--   <div class="contactExperts wow rotateInUpLeft pt-3" data-wow-delay=".40s">
-                  <div class="images "> <span>
-
-                  <img class="rounded-circle text-left" width="50" height="50"  src="<?=base_url()?>assets/images/Oval-Copy-17.jpg" alt="img">
-
-                  </span> <span>
-
-                  <img  class="rounded-circle" width="50" height="50"  src="<?=base_url()?>assets/images/Oval-Copy-59.jpg"  alt="img">
-
-                  </span> <span>
-
-                  <img  class="rounded-circle" width="50" height="50" src="<?=base_url()?>assets/images/Oval-Copy-30.jpg"   alt="img">
-
-                  </span> </div>
-                  <div class="content text-left text-dark">Need help? <a class="text-dark" href="<?php echo base_url()?>contact-us"><u>Contact our experts</u></a> Tell us about your project </div>
-               </div>-->
-			   
             </div>
          </div>
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
@@ -255,75 +210,6 @@
             </div>
          </div>
       </div>
-         <!--  <div class="row  ">
-         <div class="col-sm-12 " data-wow-delay=".30s">
-            <div class="wow fadeInUp">
-               <div class="row">
-                  <div class="col-sm-6  pl-0 pr-0 wow bounceInRight" data-wow-delay=".20s">
-                     <div class="inner-container-tag bg-theme-red">
-                        <div class="widget-wrap">
-                           <div class="image-box-wrapper">
-                              <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon1.svg" alt="Who We Are?" class="opacity-1"> </div>
-                              <div class="image-box-content">
-                                 <h2 class="image-box-title text-white">Who We Are?</h2>
-                                 <p class="image-box-description text-white">We Are SEOs, Writers, Designers, Developers and Strategists</p> <a href="#" class="btn btn-outline-success my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
-
-                                 Get Started</a> </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-6  pl-0 pr-0 wow bounceInLeft" data-wow-delay=".25s">
-                     <div class="inner-container-tag bg-theme-white">
-                        <div class="widget-wrap">
-                           <div class="image-box-wrapper">
-                              <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" alt="What We Do" class="opacity-1"> </div>
-                              <div class="image-box-content">
-                                 <h2 class="image-box-title">What We Do?</h2>
-                                 <p class="image-box-description">We believe in building strong brands and well-crafted content. </p> <a href="#" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
-
-                                 Get Started</a> </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-			   
-			   
-          <div class="row">
-                  <div class="col-sm-6  pl-0 pr-0 wow bounceInRight " data-wow-delay=".30s">
-                     <div class="inner-container-tag bg-theme-white">
-                        <div class="widget-wrap">
-                           <div class="image-box-wrapper">
-                              <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon3.svg" alt="Who We Help" class="opacity-1"> </div>
-                              <div class="image-box-content">
-                                 <h2 class="image-box-title">Who We Help?</h2>
-                                 <p class="image-box-description">Our clients are creative, conversion focused industry leaders. </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
-
-                                 Get Started</a> </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-6  pl-0 pr-0 wow bounceInLeft " data-wow-delay=".35s">
-                     <div class="inner-container-tag bg-theme-white">
-                        <div class="widget-wrap">
-                           <div class="image-box-wrapper">
-                              <div class="image-box-img"> <img src="<?=base_url()?>assets/images/icon/icon2.svg" alt="What Is Next" class="opacity-1"> </div>
-                              <div class="image-box-content">
-                                 <h2 class="image-box-title">What Is Next ?</h2>
-                                 <p class="image-box-description">We empower companies with content marketing that works </p> <a href="#" class="btn btn-outline-success  text-dark my-2 my-sm-0 get_quote " type="submit"><i class="fa fa-play-circle" aria-hidden="true"></i>
-
-                                 Get Started</a> </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-			   
-            </div>
-         </div>
-      </div>-->
    </div>
 </section>
 <section class="pt-5 pb-5 background-element-webdesign back-white">
@@ -334,12 +220,12 @@
                <h2><strong class="lead">Our Expert is Here to Guide You</strong></h2>
                <h3 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s">The Goals of Your Email Marketing Campaigns</h3>
                <p class="text-justify wow fadeInUp" >First and foremost, before choose email marketing agencies, you need to know your goals. By doing so, you’ll find your match easier. If, for example, you want to drive sales, the Megatask Technologies should be able to focus on developing a strategy for creating, distributing, and tracking different kinds of promo emails, welcome letters, customer surveys, and more. On the other hand, if you need digital invitations to be sent, the company should create appealing invitations and track RSVPs. The bottom line is, the agency you opt for will have to have corresponding expertise.</p>
-               <!--<p>Best Digital Marketing Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow" type="submit">Ask Now</a> </div>
+               <!--<p>Best Digital Marketing Agency</p>--><a href="<?php echo base_url()?>contact-us" class="btn btn-outline-success text-dark my-2 my-sm-0 get_quote asknow">Ask Now</a> </div>
          </div>
          <div class=" col-sm-6  bounceLeft-101 " data-wow-delay=".30s">
             <div class="title_lead wow fadeInUp " data-wow-delay=".20s">
                <div class="fly-image">
-                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/Magic mail! [GIF].gif" alt="Email Marketing gif" class="bounce-1" /> </p>
+                  <p class="text-center  "> <img src="<?=base_url()?>assets/images/Magicmail.gif" alt="Email Marketing gif" class="bounce-1" /> </p>
                </div>
             </div>
          </div>

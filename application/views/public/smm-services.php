@@ -119,7 +119,7 @@
       <div class="row">
          <div class="col-xs-12" id="myDIV">
             <ul class="wow bounceInLeft nav nav-tabs process-model more-icon-preocess" role="tablist">
-               <li role="presentation" class="listitem active" aria-controls="Analysis" role="tab" data-toggle="tab" aria-expanded="true">
+               <li role="presentation" class="listitem active" aria-controls="Analysis" data-toggle="tab">
                   <a href="#Analysis" aria-controls="Analysis" role="tab" data-toggle="tab" aria-expanded="true"> <span class="icon-magnifier"><i class="fa fa-search" aria-hidden="true"></i>
 
 
@@ -128,7 +128,7 @@
                      <p class="text-center text-white">Better Online Exposure</p>
                   </a>
                </li>
-               <li role="presentation" class="listitem" aria-controls="Sessions" role="tab" data-toggle="tab" aria-expanded="false">
+               <li role="presentation" class="listitem" aria-controls="Sessions" data-toggle="tab">
                   <a href="#Sessions" aria-controls="Sessions" role="tab" data-toggle="tab" aria-expanded="false"> <span class="icon-vector"><i class="fa fa-anchor" aria-hidden="true"></i>
 
 
@@ -137,7 +137,7 @@
                      <p class="text-center text-white">High Search Rankings</p>
                   </a>
                </li>
-               <li role="presentation" class="listitem" aria-controls="SKU" role="tab" data-toggle="tab" aria-expanded="false">
+               <li role="presentation" class="listitem" aria-controls="SKU" data-toggle="tab">
                   <a href="#SKU" aria-controls="SKU" role="tab" data-toggle="tab" aria-expanded="false"> <span class="icon-pencil3"><i class="fa fa-pencil-square" aria-hidden="true"></i>
 
 
@@ -254,6 +254,7 @@
          </div>
       </div>
    </div>
+</div>
 </section>
 <section class="pt-4 pb-4 ">
    <div class="container">
@@ -272,7 +273,7 @@
    <div class="container">
       <div id="page">
          <div id="content">
-            <div class="vertical-flip-container flip-container floatR" ontouchstart="this.classList.toggle('hover');">
+            <div class="vertical-flip-container flip-container floatR">
                <div class="flipper">
                   <div class="front">
                      <div class="row">
