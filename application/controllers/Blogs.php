@@ -200,8 +200,8 @@ $data["blogs_details"]= $returnData;
        $data["meta_keyword"]=$returnData->meta_keyword;
        $data["meta_description"]=$returnData->meta_description;
        $data["meta_robot"]=$returnData->meta_robot;
-       $data["canonical"] = base_url().$slugs;
-        $data["alternate"] = base_url().$slugs;
+       $data["canonical"] = base_url()."blog/".$slugs;
+        $data["alternate"] = base_url()."blog/".$slugs;
 
         $data["twitter_site"] = "";
         $data["twitter_title"] = "";
