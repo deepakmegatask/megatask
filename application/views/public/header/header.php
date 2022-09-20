@@ -230,7 +230,7 @@ section.homepage-banner img {
     color: #616e8375;
   }
   .ecom-img-section, .ecom-img-section img {
-    padding-left: 80px;
+    padding-left:0px;
 }
 .title_lead {
     margin-top: 20px;
