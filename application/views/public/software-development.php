@@ -78,7 +78,7 @@
         <div class="title_lead pl-4 pr-4" data-wow-delay=".20s">
          <h1 class="text-left"><strong class="lead">Years Of Excellence In Software Development</strong></h1>
            <!-- <h1 class="text-left  text-left wow fadeInUp " data-wow-delay=".20s"></h1>  -->
-          <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">Megatask Web offers a wide range of customized software development services worldwide; we are a professional software development company based in Delhi. We have outstanding experience in custom software development and database development, database development, desktop, and distributed application design as well as various custom software components and internet-project programming.</p>
+          <p class="text-justify wow fadeInUp  " data-wow-delay=".25s"><a href="<?php echo base_url();?>"><b>Megatask</b></a> Web offers a wide range of customized software development services worldwide; we are a professional <a href="<?php echo base_url();?>software-development"><b>software development</b></a> company based in Delhi. We have outstanding experience in custom software development and database development, database development, desktop, and distributed application design as well as various custom software components and internet-project programming.</p>
           <p class="text-justify wow fadeInUp  " data-wow-delay=".25s">We meet the expense of our clients subsequent to the involve tailor-made software solutions that will meet their specific situation requirements. Our team of experienced and in the surgically removed from ahead software developers will join application rotate at the forefront when your descent of business.</p>
       </div>
     </div>

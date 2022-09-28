@@ -94,7 +94,7 @@
             </div>
             <div class=" col-sm-8  ">
                 <div class="title_lead pt-5 pt-5">
-                    <p class="text-justify text-white wow fadeInUp  " data-wow-delay=".25s">Megatask Technologies Pvt Ltd is the best IT company in Delhi that offers an extended array of services including Website Design, Mobile App development, MLM software and Digital Marketing Services for the enterprise. Our purpose is to provide IT solutions for every business to thrive. Our in-house team is backed by skilled professionals that help enterprises to be the best competitors in the realm of their respective business world. Solution-oriented, we are determined to break down complex problems and assist our clients with the best IT services.</p>
+                    <p class="text-justify text-white wow fadeInUp  " data-wow-delay=".25s"><a href="<?php echo base_url();?>" style="color: #fff;"><b>Megatask</b></a> Technologies Pvt Ltd is the best IT company in Delhi that offers an extended array of services including Website Design, Mobile App development, MLM software and <a href="<?php echo base_url();?>digital-marketing" style="color: #fff;"><b>Digital Marketing</b></a> Services for the enterprise. Our purpose is to provide IT solutions for every business to thrive. Our in-house team is backed by skilled professionals that help enterprises to be the best competitors in the realm of their respective business world. Solution-oriented, we are determined to break down complex problems and assist our clients with the best IT services.</p>
                 </div>
             </div>
         </div>
