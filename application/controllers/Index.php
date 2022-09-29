@@ -611,6 +611,27 @@ class Index extends CI_Controller
     public function faq()
     {
         $data = array();
+        $data["title"] = "Contact US - Megatask Technologies";
+        $data["meta_title"] = $data["title"];
+
+        $data["meta_description"] = "";
+        $data["meta_keyword"] = "";
+
+
+        $data["canonical"] = base_url()."faq/";
+        $data["alternate"] = base_url()."faq/";
+
+        $data["twitter_site"] = "Contact us - Megatask Technologies";
+        $data["twitter_title"] = "Megatask privacy-policy - Megatask Technologies";
+        $data["twitter_description"] = "";
+
+        //footer
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Jitender";
+        $data["footdesc"] = "Best Digital marketing Consulting";
+        $data["mpnnumber"] = "2876";
+        $data["ratingvalue"] = "4.5";
+
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/faq";
         
@@ -632,6 +653,26 @@ class Index extends CI_Controller
     public function privacy_policy()
     {
         $data = array();
+        $data["title"] = "Contact US - Megatask Technologies";
+        $data["meta_title"] = $data["title"];
+
+        $data["meta_description"] = "";
+        $data["meta_keyword"] = "";
+
+
+        $data["canonical"] = base_url()."privacy-policy/";
+        $data["alternate"] = base_url()."privacy-policy/";
+
+        $data["twitter_site"] = "Contact us - Megatask Technologies";
+        $data["twitter_title"] = "Megatask privacy-policy - Megatask Technologies";
+        $data["twitter_description"] = "";
+
+        //footer
+        $data["companyname"] = "Megatask";
+        $data["authname"] = "Jitender";
+        $data["footdesc"] = "Best Digital marketing Consulting";
+        $data["mpnnumber"] = "2876";
+        $data["ratingvalue"] = "4.5";
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/privacy-policy";
         
