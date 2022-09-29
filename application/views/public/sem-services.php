@@ -84,7 +84,7 @@
              </div>
             <div class="contactExperts wow rotateInUpLeft" data-wow-delay=".40s">
                <div class="content text-justify text-dark">
-                  <p>Anyone with a website can leverage search engines to promote their products and services and connect with key stakeholders. You have most likely learned about search engines in your search engine optimization (SEO) strategies, but you may not be familiar with their role in search engine marketing.</p>
+                  <p>Anyone with a website can leverage search engines to promote their products and services and connect with key stakeholders. You have most likely learned about search engines in your <a href="<?php echo base_url();?>seo-services"><b>Search Engine Optimization</b></a> (SEO) strategies, but you may not be familiar with their role in search engine marketing.</p>
                   <p> Ready to start your SEM advertising campaign? Our search engine marketing agency explains the significance of search engines in SEM and how your business can use them to speed up your customers’ buying process. Learn more about search engine advertising and improve your marketing effectiveness in no time!</p>
                </div>
             </div>
