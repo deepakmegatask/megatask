@@ -39,10 +39,10 @@
       "@type": "EmployerAggregateRating",
       "itemReviewed": {
         "@type": "Organization",
-        "name" : "PPC Service agencys in Delhi",
+        "name" : "PPC Service agency in Delhi",
         "sameAs" : "https://megatasktechnologies.com/responsive-website"
       },
-      "ratingValue": "95",
+      "ratingValue": "80",
       "bestRating": "92",
       "worstRating": "1",
       "ratingCount" : "19049"
