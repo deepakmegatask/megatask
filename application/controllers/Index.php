@@ -643,6 +643,22 @@ class Index extends CI_Controller
     public function error_404()
     {
         $data = array();
+
+         $data["title"] = "";
+
+        $data["meta_title"] = $data["title"];
+        $data["meta_description"] = "";     
+        $data["meta_keyword"] = "";
+        $data["canonical"] = base_url();
+        $data["alternate"] = base_url();
+
+        //footer
+        $data["companyname"] = "";
+        $data["authname"] = "";
+        $data["footdesc"] = "";
+        $data["mpnnumber"] = "";
+        $data["ratingvalue"] = "";
+
         $data["title"] = "Megatask Technologies: Web Design Company | Digital Marketing Agency";
         $data["file"] = "public/error_404";
         $this
