@@ -32,10 +32,32 @@
         .ecom-img-section, .ecom-img-section img {
             padding-left: 0 !important;
         }
+            .card {
+    min-width: 536px;
+}
+span.datee {
+    float: right;
+}
+/*.wow {
+    font-size: 26px !important;
+}*/
+.h1, h1 {
+    font-size:0;
+}
+a.text-center.get_quote {
+    float: right;
+}
+h2.text-justify.wow.fadeInUp.main-heading {
+    font-size: 32px;
+    font-weight: bolder;
+}
+.display-felx {
+    display: inline-block;
+    padding: 22px;
+}
 </style>
 
 <section class="">
-    <!--ecommerce home banner start-->
     <div class="container-fluid  ">
         <div class="container-fluid   ">
             <div class="container">
@@ -50,7 +72,7 @@
         </div>
     </div>
 </section>
-<section class="pt-5 pb-5 perfect-seo bg-seemles-webdesign ">
+<!-- <section class="pt-5 pb-5 perfect-seo bg-seemles-webdesign ">
     <div class="container">
         <div class="row ">
             <div class=" col-sm-12">
@@ -101,11 +123,7 @@
         
     </div>
 </section>
-
-
-
-
-
+ -->
 
 <section class="pt-5 pb-5 perfect-seo bg-seemles-webdesign ">
     <div class="container">
@@ -118,33 +136,26 @@
             </div>
         </div>
         <?php
-        foreach($list_blogs  as $k=>$v)
-        {
-                ?>
-                <div class="row pad bg-white ">
-            <div class=" col-sm-6 mt-3 mb-3">
-                <div class="title_lead image-section wow fadeInLeft" data-wow-delay=".20s">
-                    <img src="<?php echo base_url('uploads/blog/'.$v->image)?>" style="height:350px;width:100%;">
-                </div>
-            </div>
-            <div class=" col-sm-6  ">
-                <div class="title_lead pt-4 pb-2 ">
-                        <a href="<?php echo base_url('blog/'.$v->slug_url)?>"><h3  class="text-justify wow fadeInUp ">How to Grow Your Business Online in 2022<h3></a>
-                       <p>By : <b>Megatask Technologies</b><br>Date :&nbsp;14 Jun 2022</p> 
-                    <a href="How to Grow Your Business Online in 2022"><div class="text-justify wow fadeInUp " data-wow-delay=".25s">In 2022, we have already reached and living in peak time of “Digital Era”, so online presence is the need of every business to grow or sustain now a days and you don't have to be a Digital Expert for this as Megatask Technologies Pvt Ltd...</div></a>
-                    
-                    
-                    <a href="How to Grow Your Business Online in 2022" class="mt-2 text-center mb-2 get_quote">Read More...</a>
-
-                </div>
-            </div>
+foreach ($list_blogs as $k => $v)
+{
+?>
+            <div class="row pad display-felx">
+                    <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" src="<?php echo base_url('uploads/blog/' . $v->image) ?>" alt="Card image cap">
+                      <div class="card-body">
+                        <div class="created-by">
+                        <p> <span>By : <b><?=$v->created_by ?></b></span><span class="datee">Date :&nbsp;<b><?=date("d M Y", strtotime($v->date_at)) ?></b></span></p></div>
+                        <a href="<?php echo base_url('blog/' . $v->slug_url) ?>"><h2 class="text-justify wow fadeInUp main-heading"><?=$v->name ?> </h2></a>
+                        <p class="card-text text-justify wow fadeInUp" data-wow-delay=".25s"><?php echo base64_decode(substr($v->description, 0, 500)) ?></p>
+                        <a href="<?php echo base_url('blog/' . $v->slug_url) ?>" class="text-center get_quote">Read More...</a>
+                      </div>
+                    </div>
             <hr>
         </div>
             <?php
-        }   
+}
 
-
-        ?>
+?>
 <br>
 <br>
 <br>
@@ -158,6 +169,10 @@
         
     </div>
 </section>
+
+
+
+
 
 <section class="testimonial-section">
     <div class="container">

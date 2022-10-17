@@ -102,13 +102,8 @@ class Blogs extends CI_Controller
         $config = array();
         $config["base_url"] = base_url() . "blog";
         $config["total_rows"] = $this->blog_model->get_count();
-         
-        
-
-        $config['per_page'] = 3;        
-
-        $config['uri_segment'] = 12;        
-
+        $config['per_page'] = 3; 
+        $config['uri_segment'] = 12; 
         $config['full_tag_open'] = '<ul class="pagination">';
         $config['full_tag_close'] = '</ul>';
         $config['first_link'] = false;
@@ -150,15 +145,6 @@ class Blogs extends CI_Controller
         $data["mpnnumber"] = "";
         $data["ratingvalue"] = "";
 
-       /*pagination start end*/
-
-
-/*
- echo "<pre>";
-print_r($data["list_blogs"]);
-echo "</pre>"; */
-
-        
        $this->load
             ->view('public/header/template', $data);
 
