@@ -103,6 +103,10 @@
 </section>
 
 
+
+
+
+
 <section class="pt-5 pb-5 perfect-seo bg-seemles-webdesign ">
     <div class="container">
         <div class="row ">
@@ -125,12 +129,12 @@
             </div>
             <div class=" col-sm-6  ">
                 <div class="title_lead pt-4 pb-2 ">
-                        <a href="<?php echo base_url('blog/'.$v->slug_url)?>"><h3  class="text-justify wow fadeInUp "><?=$v->name?> <h3></a>
-                       <p>By : <b><?=$v->created_by?></b><br>Date :&nbsp;<?=date("d M Y", strtotime($v->date_at))?></p> 
-                    <a href="<?php echo base_url('blog/'.$v->slug_url)?>"><div class="text-justify wow fadeInUp " data-wow-delay=".25s"><?= base64_decode(substr( $v->description, 0, 500))?>...</div></a>
+                        <a href="<?php echo base_url('blog/'.$v->slug_url)?>"><h3  class="text-justify wow fadeInUp ">How to Grow Your Business Online in 2022<h3></a>
+                       <p>By : <b>Megatask Technologies</b><br>Date :&nbsp;14 Jun 2022</p> 
+                    <a href="How to Grow Your Business Online in 2022"><div class="text-justify wow fadeInUp " data-wow-delay=".25s">In 2022, we have already reached and living in peak time of “Digital Era”, so online presence is the need of every business to grow or sustain now a days and you don't have to be a Digital Expert for this as Megatask Technologies Pvt Ltd...</div></a>
                     
                     
-                    <a href="<?php echo base_url('blog/'.$v->slug_url)?>" class="mt-2 text-center mb-2 get_quote">Read More...</a>
+                    <a href="How to Grow Your Business Online in 2022" class="mt-2 text-center mb-2 get_quote">Read More...</a>
 
                 </div>
             </div>
