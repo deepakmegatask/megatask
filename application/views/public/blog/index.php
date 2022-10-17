@@ -32,29 +32,26 @@
         .ecom-img-section, .ecom-img-section img {
             padding-left: 0 !important;
         }
-            .card {
-    min-width: 536px;
-}
-span.datee {
-    float: right;
-}
-/*.wow {
-    font-size: 26px !important;
-}*/
-.h1, h1 {
-    font-size:0;
-}
-a.text-center.get_quote {
-    float: right;
-}
-h2.text-justify.wow.fadeInUp.main-heading {
-    font-size: 32px;
-    font-weight: bolder;
-}
-.display-felx {
-    display: inline-block;
-    padding: 22px;
-}
+        .card {
+            min-width: 536px;
+        }
+        span.datee {
+            float: right;
+        }
+        .h1, h1 {
+            font-size:0;
+        }
+        a.text-center.get_quote {
+            float: right;
+        }
+        h2.text-justify.wow.fadeInUp.main-heading {
+            font-size: 32px;
+            font-weight: bolder;
+        }
+        .display-felx {
+            display: inline-block;
+            padding: 22px;
+        }
 </style>
 
 <section class="">
@@ -141,7 +138,7 @@ foreach ($list_blogs as $k => $v)
 ?>
             <div class="row pad display-felx">
                     <div class="card" style="width: 18rem;">
-                      <img class="card-img-top" src="<?php echo base_url('uploads/blog/' . $v->image) ?>" alt="Card image cap">
+                      <img class="card-img-top" src="<?php echo base_url('uploads/blog/' . $v->image) ?>" alt="Card image cap" title="Card image cap">
                       <div class="card-body">
                         <div class="created-by">
                         <p> <span>By : <b><?=$v->created_by ?></b></span><span class="datee">Date :&nbsp;<b><?=date("d M Y", strtotime($v->date_at)) ?></b></span></p></div>
