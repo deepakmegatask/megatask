@@ -46,7 +46,7 @@
             <div class=" col-sm-12 ">
                 <div class="title_lead">
                     <h3  class="text-justify wow fadeInUp "><?=$blogs_details->name?></h3>
-                    <p class="text-justify wow fadeInUp " data-wow-delay=".25s"><?= base64_decode($blogs_details->description)?></p>
+                    <p class="text-justify wow fadeInUp " data-wow-delay=".25s"><?= base64_decode($blogs_details->editor)?></p>
                 </div>
             </div>
         </div>

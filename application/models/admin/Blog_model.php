@@ -5,8 +5,8 @@
 class Blog_model extends Base_model
 {
     public $table = "mt_blog";
-    var $column_order = array(null, 'name' ,'slug_url' ,'img_alt_name','description','created_by','date_at','update_at','image_name','status',null); //set column field database for datatable orderable
-    var $column_search = array( 'name' ,'slug_url', 'img_alt_name','description','created_by','image_name','date_at','update_at','status'); //set column field database for datatable searchable 
+    var $column_order = array(null, 'name' ,'slug_url' ,'img_alt_name','editor','created_by','date_at','update_at','image_name','status',null); //set column field database for datatable orderable
+    var $column_search = array( 'name' ,'slug_url', 'img_alt_name','editor','created_by','image_name','date_at','update_at','status'); //set column field database for datatable searchable 
     var $order = array('id' => 'DESC'); // default order
 
         

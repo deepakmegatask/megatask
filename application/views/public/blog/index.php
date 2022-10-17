@@ -143,7 +143,7 @@ foreach ($list_blogs as $k => $v)
                         <div class="created-by">
                         <p> <span>By : <b><?=$v->created_by ?></b></span><span class="datee">Date :&nbsp;<b><?=date("d M Y", strtotime($v->date_at)) ?></b></span></p></div>
                         <a href="<?php echo base_url('blog/' . $v->slug_url) ?>"><h2 class="text-justify wow fadeInUp main-heading"><?=$v->name ?> </h2></a>
-                        <p class="card-text text-justify wow fadeInUp" data-wow-delay=".25s"><?php echo base64_decode(substr($v->description, 0, 500)) ?></p>
+                        <p class="card-text text-justify wow fadeInUp" data-wow-delay=".25s"><?php echo base64_decode(substr($v->editor, 0, 500)) ?></p>
                         <a href="<?php echo base_url('blog/' . $v->slug_url) ?>" class="text-center get_quote">Read More...</a>
                       </div>
                     </div>

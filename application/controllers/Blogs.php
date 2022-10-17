@@ -96,6 +96,9 @@ class Blogs extends CI_Controller
         /*to fetch active blogs end*/
        $data["list_blogs"]= $returnData;
 
+       // print_r($data["list_blogs"]);
+       // die;
+
 
 
        /*pagination start end*/
